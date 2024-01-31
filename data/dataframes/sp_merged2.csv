@@ -1,0 +1,555 @@
+SongID,TrackName,Artists,Genre,FilePath,sp_danceability,sp_energy,sp_key,sp_loudness,sp_speechiness,sp_acousticness,sp_instrumentalness,sp_liveness,sp_valence,sp_tempo,sp_time_signature,sp_genre
+1,Bass Inside,AC Slater,Bass House,..\data\audio_files\processed\1.mp3,0.905,0.838,6.0,-6.838,0.0499,0.00112,0.839,0.608,0.464,126.007,4.0,"electro house, brostep, bass house, fidget house"
+2,Fly Kicks - Wax Motif Remix,AC Slater/Chris Lorenzo/Wax Motif,Bass House,..\data\audio_files\processed\2.mp3,0.897,0.692,11.0,-4.985,0.0492,0.0187,0.725,0.0603,0.607,125.023,4.0,"bass house, house, tech house, electro house, brostep, fidget house"
+3,Take Me Away,ACRAZE,Pop Dance,..\data\audio_files\processed\3.mp3,0.727,0.982,11.0,-4.011,0.0782,0.000274,0.854,0.286,0.719,126.036,4.0,"pop dance, tech house"
+4,Heard It Like This,ACRAZE/Joey Valence & Brae,Pop Dance,..\data\audio_files\processed\4.mp3,0.747,0.901,1.0,-5.906,0.0491,0.0801,0.00959,0.107,0.73,125.943,4.0,"pop dance, tech house"
+5,Spring Girl - Vintage Culture Remix,Adam Ten/Maori/Vintage Culture,Israeli Techno,..\data\audio_files\processed\5.mp3,0.798,0.865,7.0,-5.296,0.0568,0.000763,0.831,0.0722,0.643,127.002,4.0,"israeli techno, brazilian edm"
+6,Back Again,Alaia & Gallo,Funky House,..\data\audio_files\processed\6.mp3,0.797,0.99,0.0,-4.885,0.178,0.195,0.779,0.222,0.0379,125.931,4.0,"italian tech house, funky house"
+7,I Wanna Know - Alesso & Deniz Koyu Remix,Alesso/Nico & Vinz/Deniz Koyu,Dance Pop,..\data\audio_files\processed\7.mp3,0.71,0.729,2.0,-4.978,0.0539,0.0743,3.89e-06,0.0419,0.532,124.995,4.0,"afrobeats, dutch house, dance pop, edm, pop dance, sky room, progressive electro house, electro house, progressive house, german techno, pop"
+8,Nova Vida - Osmo Remix,Allen French/Osmo,,..\data\audio_files\processed\8.mp3,0.725,0.828,7.0,-7.056,0.0713,0.00308,0.488,0.0846,0.349,115.0,4.0,
+9,Drum Machine,Alok/Pickle,Electro House,..\data\audio_files\processed\9.mp3,0.798,0.968,0.0,-5.417,0.0581,0.00354,0.829,0.15,0.261,127.997,4.0,"pop nacional, slap house, electro house, dutch edm"
+10,Body Pump - Lady Bee Remix,Aluna/Lady Bee,Dance Pop,..\data\audio_files\processed\10.mp3,0.667,0.927,10.0,-6.183,0.0489,0.00265,0.103,0.108,0.544,122.997,4.0,"uk dance, bass trap, dance pop, moombahton"
+11,Killing Me,Aluna/TSHA,Dance Pop,..\data\audio_files\processed\11.mp3,0.869,0.747,6.0,-6.817,0.186,0.0523,0.0912,0.202,0.69,123.999,4.0,"uk house, uk dance, dance pop"
+12,Done To Me,Amés,,..\data\audio_files\processed\12.mp3,0.656,0.863,11.0,-6.662,0.0347,0.0227,0.0233,0.158,0.623,122.019,4.0,
+13,Frikitona,Andruss,Mexican Tech House,..\data\audio_files\processed\13.mp3,0.787,0.964,6.0,-6.34,0.0639,0.0838,0.176,0.0465,0.719,127.991,4.0,"mexican tech house, tech house"
+14,Relax My Eyes,ANOTR/Abel Balder,Dutch Tech House,..\data\audio_files\processed\14.mp3,0.747,0.616,3.0,-9.76,0.0324,0.176,0.116,0.143,0.908,131.975,4.0,dutch tech house
+15,I Want Your Soul - Mau P Remix,Armand Van Helden/Mau P,Big Beat,..\data\audio_files\processed\15.mp3,0.785,0.872,10.0,-6.589,0.0678,0.0175,0.505,0.0563,0.523,127.011,4.0,"disco house, classic house, filter house, big beat, house, vocal house, uk dance, deep house, speed garage, tribal house, tech house"
+16,U Got Me,ATFC,Deep House,..\data\audio_files\processed\16.mp3,0.802,0.928,10.0,-4.906,0.0471,0.0541,0.384,0.331,0.947,124.981,4.0,"disco house, deep house, vocal house"
+17,Hipcats,ATFC/David Penn,Deep House,..\data\audio_files\processed\17.mp3,0.89,0.958,0.0,-4.955,0.0582,0.000366,0.00203,0.0227,0.796,122.013,4.0,"disco house, house, vocal house, funky tech house, deep house, tribal house, funky house"
+18,Escape (with Nomra),Audien/Nomra,Edm,..\data\audio_files\processed\18.mp3,0.567,0.938,10.0,-3.503,0.052,0.0179,0.00943,0.741,0.288,127.97,4.0,"edm, pop dance, pop edm, progressive electro house, electro house, progressive house"
+19,See You On The Other Side [Upmost Remix],Audien/Upmost,Edm,..\data\audio_files\processed\19.mp3,0.278,0.286,1.0,-7.981,0.0374,0.39,0.0291,0.107,0.036,124.648,4.0,"edm, pop dance, pop edm, progressive electro house, electro house, progressive house"
+20,See You On The Other Side,Audien,Edm,..\data\audio_files\processed\20.mp3,0.442,0.277,2.0,-10.431,0.0336,0.466,0.432,0.16,0.0385,120.044,4.0,"edm, pop dance, pop edm, progressive electro house, electro house, progressive house"
+21,Something Better,Audien/Lady A,Edm,..\data\audio_files\processed\21.mp3,0.549,0.835,2.0,-2.632,0.0656,0.0692,0.0,0.212,0.423,126.08,4.0,"country road, edm, pop dance, country dawn, pop edm, contemporary country, progressive electro house, electro house, progressive house, country, country pop"
+22,Bling (feat. Lady Leshurr),Autoerotique/Lady Leshurr,Brostep,..\data\audio_files\processed\22.mp3,0.759,0.939,7.0,-5.072,0.0826,0.00393,0.0714,0.0953,0.123,122.02,4.0,"birmingham hip hop, afroswing, trap queen, electro house, canadian electronic, brostep"
+23,Vertigo,Autograf/Malou/Burko,Deep Tropical House,..\data\audio_files\processed\23.mp3,0.638,0.93,7.0,-5.585,0.05,0.0207,0.207,0.241,0.427,125.016,4.0,"vapor soul, vapor twitch, pop edm, deep tropical house"
+24,RIZZ,AYYBO,,..\data\audio_files\processed\24.mp3,0.855,0.839,7.0,-5.733,0.153,0.0736,0.426,0.32,0.729,127.044,4.0,
+25,PLAY SOME RECORDS,AYYBO/Dances,,..\data\audio_files\processed\25.mp3,0.804,0.837,9.0,-4.392,0.0678,0.00238,0.118,0.206,0.825,127.015,4.0,bmore
+26,HYPNOSIS,AYYBO/ero808,,..\data\audio_files\processed\26.mp3,0.968,0.865,9.0,-5.484,0.302,0.192,0.00383,0.309,0.652,125.016,4.0,hyperpop
+27,DRENCH,AYYBO/Preme,,..\data\audio_files\processed\27.mp3,0.919,0.673,4.0,-6.18,0.214,0.0283,0.141,0.162,0.719,126.996,4.0,"canadian trap, canadian hip hop"
+28,Other Side,Azzecca,,..\data\audio_files\processed\28.mp3,0.768,0.846,9.0,-6.469,0.0478,0.00411,0.769,0.0998,0.139,124.981,4.0,
+29,Everybody Goes,Bellecour,Bass House,..\data\audio_files\processed\29.mp3,0.829,0.985,1.0,-3.33,0.067,0.000347,0.762,0.0326,0.599,124.983,4.0,bass house
+30,Life Lesson,Belters Only/Sonny Fodera/Jazzy,Charva,..\data\audio_files\processed\30.mp3,0.795,0.782,0.0,-5.854,0.0307,0.161,0.00262,0.0857,0.233,127.977,4.0,"pop dance, house, charva, uk dance"
+31,Moonlight,Beltran/Mandragora,,..\data\audio_files\processed\31.mp3,0.809,0.609,7.0,-9.69,0.0917,0.000453,0.473,0.0714,0.598,126.999,4.0,"mexican edm, brazilian edm, trance mexicano"
+32,Million Dollar Bill,Beyond Chicago/Majestic/Alex Mills,,..\data\audio_files\processed\32.mp3,0.785,0.86,7.0,-5.902,0.0368,0.00013,0.179,0.152,0.787,130.013,4.0,"uk dance, deep groove house, uk pop"
+33,Do You Feel It,Biscits,Bass House,..\data\audio_files\processed\33.mp3,0.841,0.483,0.0,-7.43,0.103,0.00354,0.83,0.466,0.246,127.991,4.0,"uk tech house, bass house, house, uk dance, tech house"
+34,Don't Stop,Biscits,Bass House,..\data\audio_files\processed\34.mp3,,,,,,,,,,,,
+35,Selecta,Biscits,Bass House,..\data\audio_files\processed\35.mp3,0.852,0.762,5.0,-7.944,0.171,0.0665,0.85,0.814,0.408,127.987,4.0,"uk tech house, bass house, house, uk dance, tech house"
+36,365,Biscits/Camden Cox,Bass House,..\data\audio_files\processed\36.mp3,0.81,0.554,11.0,-17.77,0.192,0.0181,0.00718,0.73,0.79,127.019,4.0,"uk tech house, bass house, stutter house, house, uk dance, tech house"
+37,Intergalactic,Black V Neck,Bass House,..\data\audio_files\processed\37.mp3,0.802,0.945,2.0,-4.466,0.0736,0.000727,0.661,0.319,0.154,126.026,4.0,"tech house, bass house"
+38,Like Whoa,Black V Neck,Bass House,..\data\audio_files\processed\38.mp3,0.773,0.89,6.0,-7.044,0.0578,0.00111,0.871,0.0884,0.745,126.028,4.0,"tech house, bass house"
+39,Bring The Noise,Black V Neck/Rave Rae,Bass House,..\data\audio_files\processed\39.mp3,0.807,0.94,2.0,-4.845,0.0882,0.124,0.451,0.137,0.303,125.966,4.0,"tech house, bass house"
+40,Boom Boom,Bleu Clair,Bass House,..\data\audio_files\processed\40.mp3,0.838,0.88,1.0,-5.641,0.0625,0.00824,0.0253,0.0613,0.37,127.962,4.0,"indonesian edm, tech house, bass house"
+41,The Rhythm,Bleu Clair,Bass House,..\data\audio_files\processed\41.mp3,0.8,0.976,6.0,-8.462,0.062,0.00493,0.898,0.0849,0.388,127.012,4.0,"indonesian edm, tech house, bass house"
+42,Peanut Butter,Bleu Clair/Dances,Bass House,..\data\audio_files\processed\42.mp3,0.783,0.954,11.0,-4.796,0.0748,0.00966,0.638,0.0676,0.752,125.983,4.0,"bmore, indonesian edm, tech house, bass house"
+43,Killer Bee,Bleu Clair/OOTORO/Chyra,Bass House,..\data\audio_files\processed\43.mp3,0.796,0.992,1.0,-3.009,0.0589,0.00232,0.728,0.253,0.702,127.994,4.0,"indonesian edm, tech house, bass house"
+44,Call My Name,BLOND:ISH,Deep Disco House,..\data\audio_files\processed\44.mp3,0.557,0.938,9.0,-4.913,0.0897,0.000995,0.451,0.128,0.36,124.109,4.0,"melodic house, deep disco house"
+45,Sorry (with Madonna),BLOND:ISH/Madonna/Eran Hersh/Darmon,Deep Disco House,..\data\audio_files\processed\45.mp3,0.604,0.961,5.0,-7.349,0.0388,0.000385,0.85,0.253,0.677,128.009,4.0,"dance pop, melodic house, circuit, house, dutch tech house, deep disco house, pop"
+46,All Cried Out (feat. Alex Newell) - Radio Edit,Blonde/Alex Newell,House,..\data\audio_files\processed\46.mp3,0.657,0.757,0.0,-5.257,0.0584,0.428,0.0,0.0728,0.672,122.056,4.0,"indie poptimism, uk dance, house, strut"
+47,Lipstick (feat. Robbie Rise),BLR/Robbie Rise,Dutch Edm,..\data\audio_files\processed\47.mp3,0.811,0.92,6.0,-6.318,0.141,0.0649,0.283,0.103,0.32,125.022,4.0,dutch edm
+48,Save Our Soul - Rework 2021,Bob Sinclar,Disco House,..\data\audio_files\processed\48.mp3,0.658,0.987,3.0,-4.697,0.0821,0.000537,0.912,0.736,0.156,126.019,4.0,"disco house, filter house"
+49,Ti Sento,Bob Sinclar/Matia Bazar/Antonella Ruggiero,Disco House,..\data\audio_files\processed\49.mp3,0.646,0.953,1.0,-4.065,0.0311,0.00287,8.47e-06,0.595,0.737,123.036,4.0,"disco house, filter house, classic italian pop, italian adult pop, musica etnica"
+50,Make Me - Franky Rizardo Remix,Borai & Denham Audio/Franky Rizardo,,..\data\audio_files\processed\50.mp3,0.686,0.727,6.0,-8.071,0.0417,0.00026,0.00659,0.0622,0.606,129.973,4.0,"house, dutch tech house, circuit"
+51,Tokyo Bill,Born Dirty/Bellecour,Bass House,..\data\audio_files\processed\51.mp3,0.85,0.993,4.0,-3.463,0.17,0.0126,0.419,0.186,0.647,125.05,4.0,bass house
+52,From Paris to Berlin (Chrit Leaf Remix),Braaheim/Chrit Leaf,Covertronica,..\data\audio_files\processed\52.mp3,0.747,0.739,10.0,-6.683,0.0484,0.0569,0.116,0.144,0.659,124.013,4.0,"covertronica, slap house"
+53,Bridgework,Bruce Trail,Lo-Fi House,..\data\audio_files\processed\53.mp3,0.803,0.68,0.0,-7.676,0.0773,0.356,0.868,0.138,0.299,122.99,4.0,lo-fi house
+54,Bongoloco,Bruno Furlan,Brazilian Edm,..\data\audio_files\processed\54.mp3,0.797,0.665,2.0,-7.613,0.106,0.00501,0.75,0.0789,0.0741,128.045,4.0,"tech house, brazilian edm, brazilian tech house"
+55,La Fiesta,Bruno Furlan,Brazilian Edm,..\data\audio_files\processed\55.mp3,0.794,0.986,9.0,-5.099,0.0548,0.000655,0.263,0.249,0.559,128.996,4.0,"tech house, brazilian edm, brazilian tech house"
+56,Space Bump,Bruno Furlan/Deeft,Brazilian Edm,..\data\audio_files\processed\56.mp3,0.81,0.921,4.0,-7.853,0.0669,0.000184,0.884,0.0892,0.961,128.002,4.0,"tech house, brazilian edm, brazilian tech house"
+57,I Want You,Butch/Nic Fanciulli,Acid Techno,..\data\audio_files\processed\57.mp3,0.732,0.88,1.0,-5.836,0.101,0.00407,0.00929,0.0635,0.863,125.019,4.0,"acid techno, minimal techno, deep minimal techno, house, tribal house, minimal tech house, deep disco house, german techno, frankfurt electronic"
+58,Brighter Days - Marco Lys Remix,Cajmere/Dajae/Marco Lys,Chicago House,..\data\audio_files\processed\58.mp3,0.77,0.876,7.0,-6.383,0.0465,0.00884,0.37,0.0906,0.0891,125.995,4.0,"classic house, chicago house, footwork, italian tech house, deep house, tech house"
+59,CARNET - Cloonee Remix,Caleb Calloway/Saiko/Cloonee,Urbano Latino,..\data\audio_files\processed\59.mp3,0.817,0.767,0.0,-6.99,0.041,0.168,0.00442,0.085,0.608,127.979,4.0,"tech house, urbano latino, trap latino, urbano espanol"
+60,Maja,Cantoma,Chill Lounge,..\data\audio_files\processed\60.mp3,0.643,0.643,11.0,-8.081,0.027,0.0614,0.711,0.119,0.436,102.0,4.0,chill lounge
+61,Me Gusta,Carol Seubert,,..\data\audio_files\processed\61.mp3,0.789,0.743,0.0,-7.324,0.0594,0.0101,0.633,0.11,0.592,128.04,4.0,
+62,LOVE DESIRE,CASSIMM,Tech House,..\data\audio_files\processed\62.mp3,0.641,0.942,5.0,-4.458,0.0344,0.00592,0.715,0.125,0.453,125.98,4.0,tech house
+63,Me Me Me,Catz 'n Dogz/Nala,Deep Disco House,..\data\audio_files\processed\63.mp3,0.847,0.869,0.0,-7.03,0.053,0.0117,0.49,0.0436,0.773,124.994,4.0,"minimal techno, house, minimal tech house, deep disco house, german techno"
+64,Don't Let The Bass Get Ya,Cazztek,Bass House,..\data\audio_files\processed\64.mp3,0.838,0.849,1.0,-5.057,0.223,0.00533,0.0492,0.0637,0.754,124.006,4.0,"electro house, bass house"
+65,To The Beat,Cazztek,Bass House,..\data\audio_files\processed\65.mp3,0.738,0.968,11.0,-3.1,0.0894,0.00103,0.346,0.269,0.856,125.031,4.0,"electro house, bass house"
+66,I Want You,Chris Lake,Bass House,..\data\audio_files\processed\66.mp3,0.776,0.883,11.0,-5.845,0.0712,0.00426,0.351,0.0571,0.676,125.008,4.0,"edm, bass house, melbourne bounce, house, pop dance, progressive house, electro house, tech house"
+67,Operator (Ring Ring) [feat. Dances With White Girls],Chris Lake/Dances,Bass House,..\data\audio_files\processed\67.mp3,0.778,0.933,9.0,-5.719,0.214,0.00195,0.807,0.602,0.535,124.993,4.0,"edm, bass house, melbourne bounce, house, pop dance, progressive house, electro house, tech house, bmore"
+68,Stay With Me,Chris Lake,Bass House,..\data\audio_files\processed\68.mp3,0.706,0.846,6.0,-5.475,0.04,0.00653,0.161,0.0908,0.241,123.994,4.0,"edm, bass house, melbourne bounce, house, pop dance, progressive house, electro house, tech house"
+69,Turn off the Lights (feat. Alexis Roberts),Chris Lake/Alexis Roberts,Bass House,..\data\audio_files\processed\69.mp3,,,,,,,,,,,,
+70,Beggin',Chris Lake/Aluna,Bass House,..\data\audio_files\processed\70.mp3,0.817,0.67,8.0,-6.315,0.0545,0.156,0.168,0.111,0.712,125.972,4.0,"dance pop, edm, bass house, melbourne bounce, house, pop dance, uk dance, progressive house, electro house, tech house"
+71,More Baby - VIP Mix,Chris Lake/Aluna,Bass House,..\data\audio_files\processed\71.mp3,0.81,0.883,6.0,-5.795,0.117,0.00578,0.554,0.108,0.344,125.99,4.0,"dance pop, edm, bass house, melbourne bounce, house, pop dance, uk dance, progressive house, electro house, tech house"
+72,More Baby,Chris Lake/Aluna,Bass House,..\data\audio_files\processed\72.mp3,0.75,0.87,11.0,-7.109,0.055,0.00166,0.607,0.11,0.966,125.996,4.0,"dance pop, edm, bass house, melbourne bounce, house, pop dance, uk dance, progressive house, electro house, tech house"
+73,Y.O.D.O,Chris Lake/Destructo,Bass House,..\data\audio_files\processed\73.mp3,0.81,0.66,9.0,-7.633,0.0616,0.000274,0.896,0.0701,0.678,124.023,4.0,"edm, bass house, melbourne bounce, house, pop dance, progressive house, electro house, tech house"
+74,Drop Top,Chris Lake/Walker & Royce,Bass House,..\data\audio_files\processed\74.mp3,0.764,0.886,11.0,-5.692,0.0466,0.000221,0.428,0.114,0.695,126.015,4.0,"edm, bass house, melbourne bounce, house, pop dance, progressive house, electro house, tech house, deep disco house"
+75,Pump,Chris Lorenzo,Bass House,..\data\audio_files\processed\75.mp3,0.604,0.987,9.0,-5.666,0.0496,0.0229,0.717,0.574,0.549,127.982,4.0,"house, tech house, bass house"
+76,Bongos,Chris Lorenzo/Crazy Cousinz/Calista Kazuko,Bass House,..\data\audio_files\processed\76.mp3,0.755,0.889,11.0,-7.629,0.0551,0.0716,0.491,0.0913,0.359,125.043,4.0,"house, uk funky, tech house, bass house"
+77,All Night Long,Chris Stussy,Dutch Tech House,..\data\audio_files\processed\77.mp3,0.791,0.704,5.0,-9.879,0.0461,0.00877,0.301,0.0988,0.773,133.006,4.0,dutch tech house
+78,Words With You - Tchami Remix,Chromeo/Tchami,Alternative Dance,..\data\audio_files\processed\78.mp3,0.805,0.785,5.0,-5.964,0.0479,0.00114,0.36,0.0558,0.807,126.026,4.0,"alternative dance, filter house, edm, new rave, neo-synthpop, nu disco, future house, house, pop dance, deep groove house, progressive house, electro house, indietronica, dance rock"
+79,The Big Easy,Claptone,German House,..\data\audio_files\processed\79.mp3,0.776,0.913,5.0,-4.759,0.0349,0.00223,0.767,0.348,0.512,124.998,4.0,"german techno, german house, progressive house"
+80,Fine Night,Cloonee,Tech House,..\data\audio_files\processed\80.mp3,0.808,0.515,1.0,-10.908,0.0357,0.173,0.000981,0.079,0.316,127.968,4.0,tech house
+81,Weeping Willow,Cloonee/Sosa UK,Tech House,..\data\audio_files\processed\81.mp3,0.747,0.863,1.0,-9.67,0.0465,0.133,0.721,0.0933,0.399,129.978,4.0,tech house
+82,So Damn Funky,Codes,Bass House,..\data\audio_files\processed\82.mp3,0.789,0.884,0.0,-7.251,0.0454,0.00033,0.904,0.0352,0.628,125.003,4.0,bass house
+83,jd sports,counsel pop,,..\data\audio_files\processed\83.mp3,0.727,0.985,11.0,-3.981,0.148,0.159,0.504,0.323,0.518,126.021,4.0,
+84,Fresh - House of Prayers Poolside Edit,Crazibiza/House of Prayers,Funky Tech House,..\data\audio_files\processed\84.mp3,0.793,0.879,7.0,-3.953,0.0506,0.00676,0.84,0.0771,0.72,123.001,4.0,"funky tech house, jackin' house, funky house"
+85,Scrap The Book,Crazy P,Deep House,..\data\audio_files\processed\85.mp3,0.801,0.758,11.0,-7.857,0.0549,0.0308,0.77,0.0844,0.456,118.002,4.0,"electronica, deep house, indie soul, nu disco"
+86,Seeing Is Believing,Curbi,Dutch House,..\data\audio_files\processed\86.mp3,0.703,0.833,10.0,-4.509,0.0451,0.127,0.00194,0.157,0.187,127.945,4.0,"dutch house, future house, edm, pop dance, progressive electro house, electro house"
+87,Set Me Free,D.O.D,Electro House,..\data\audio_files\processed\87.mp3,0.683,0.977,6.0,-2.582,0.106,0.00372,0.0109,0.166,0.884,129.996,4.0,"pop dance, house, uk dance, electro house"
+88,Little Perk,Dale Howard,Tech House,..\data\audio_files\processed\88.mp3,0.713,0.867,4.0,-9.162,0.0795,0.00283,0.674,0.104,0.382,127.992,4.0,"uk tech house, tech house"
+89,Wingz,Damien N-Drix,,..\data\audio_files\processed\89.mp3,0.932,0.909,0.0,-2.494,0.0838,0.0349,0.282,0.0445,0.21,124.977,4.0,
+90,Not Available,Damien N-Drix/jeonghyeon,,..\data\audio_files\processed\90.mp3,0.844,0.835,11.0,-3.637,0.0762,0.0679,0.41,0.0836,0.807,126.008,4.0,"future bounce, korean electronic"
+91,"Calabria (feat. Fallen Roses, Lujavo & Lunis) - Shift K3Y Edit",Dance Fruits Music/DMNDS/Fallen Roses/Lunis/Shift K3Y/Lujavo,Lo-Fi Product,..\data\audio_files\processed\91.mp3,0.701,0.968,8.0,-5.13,0.0513,0.0812,0.000385,0.0833,0.599,125.984,4.0,"lo-fi product, covertronica, house, mexican edm, uk dance, lo-fi latino"
+92,Chase The Sun - VIP,DANNY AVILA,,..\data\audio_files\processed\92.mp3,0.57,0.982,9.0,-4.1,0.0435,0.000783,0.0285,0.381,0.0742,131.99,4.0,
+93,Alegria,Dave Winnel,,..\data\audio_files\processed\93.mp3,0.781,0.93,7.0,-5.661,0.0706,0.0341,0.545,0.182,0.161,128.013,4.0,
+94,Aurora,David Scott,,..\data\audio_files\processed\94.mp3,0.68,0.484,9.0,-13.829,0.0761,0.44,0.905,0.176,0.0723,122.044,4.0,
+95,imaginary friends (ov) - Morgan Page Remix,deadmau5/Morgan Page,Canadian Electronic,..\data\audio_files\processed\95.mp3,0.758,0.847,2.0,-7.394,0.0687,0.149,0.906,0.203,0.227,128.086,3.0,"edm, complextro, pop dance, progressive house, electro house, canadian electronic"
+96,La Samba,Deep Xcape,South African Deep House,..\data\audio_files\processed\96.mp3,0.704,0.871,9.0,-13.269,0.0438,0.303,0.795,0.118,0.376,122.999,4.0,south african deep house
+97,Tonight,Deep Xcape/Mpho,South African Deep House,..\data\audio_files\processed\97.mp3,0.845,0.725,9.0,-8.864,0.0583,0.000546,0.47,0.0332,0.924,125.998,4.0,south african deep house
+98,Up N' Down (feat. JmNPR),Deeper Purpose/BRN/JmNPR,Tech House,..\data\audio_files\processed\98.mp3,0.806,0.873,7.0,-6.57,0.0605,0.0259,0.492,0.0964,0.837,128.007,4.0,"uk tech house, tech house"
+99,Heart Isn't Home - Volac Remix,Denis First/VOLAC,Russian Edm,..\data\audio_files\processed\99.mp3,0.768,0.861,1.0,-7.145,0.124,0.0039,0.00302,0.276,0.543,126.009,4.0,"russian edm, tech house, brazilian edm, bass house"
+100,Weird Japanese Girl,Desired,Future Funk,..\data\audio_files\processed\100.mp3,0.718,0.862,8.0,-8.055,0.0466,0.0289,0.815,0.1,0.342,124.042,4.0,future funk
+101,"Bandz (feat. Yo Gotti, Kevin Gates & Denzel Curry) - Loge21 Remix",Destructo/Yo Gotti/Denzel Curry/Kevin Gates/Loge21,Bass House,..\data\audio_files\processed\101.mp3,0.715,0.815,10.0,-3.956,0.278,0.0495,0.0295,0.308,0.499,115.806,4.0,"trap, bass house, hip hop, tennessee hip hop, dirty south rap, southern hip hop, rap, baton rouge rap, dark trap, underground hip hop, electro house, pop rap, memphis hip hop, miami hip hop, drill, gangster rap"
+102,HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix,Devault/Izzy Camina/Manila Killa,Vapor Twitch,..\data\audio_files\processed\102.mp3,,,,,,,,,,,,
+103,DFR - Black Caviar Remix,Dillon Francis/Black Caviar,Brostep,..\data\audio_files\processed\103.mp3,0.871,0.797,10.0,-3.838,0.087,0.000194,0.58,0.335,0.295,123.967,4.0,"edm, pop dance, moombahton, slap house, progressive electro house, electro house, brostep"
+104,On A Trip (with Marten Hørger),Dillon Francis/Marten Hørger,Brostep,..\data\audio_files\processed\104.mp3,0.424,0.861,1.0,-5.773,0.0456,0.277,0.849,0.116,0.594,127.004,4.0,"edm, bass house, pop dance, moombahton, slap house, progressive electro house, electro house, tech house, brostep"
+105,Still Not Butter,Dillon Francis,Brostep,..\data\audio_files\processed\105.mp3,0.751,0.857,5.0,-3.704,0.0947,0.00394,0.428,0.0766,0.391,112.036,4.0,"edm, pop dance, moombahton, slap house, progressive electro house, electro house, brostep"
+106,Real Love - Shelco Garcia & Teenwolf Remix,Dillon Francis/Aleyna Tilki/Shelco Garcia & Teenwolf,Brostep,..\data\audio_files\processed\106.mp3,0.77,0.85,10.0,-4.224,0.0985,0.00196,0.00168,0.394,0.256,124.966,4.0,"edm, pop dance, turkish pop, moombahton, slap house, progressive electro house, electro house, brostep"
+107,Say Less - Dillon Francis & Moksi Remix,Dillon Francis/G-Eazy/Moksi,Brostep,..\data\audio_files\processed\107.mp3,0.67,0.835,8.0,-5.341,0.051,0.00359,0.0514,0.0407,0.506,129.018,4.0,"electronic trap, edm, bass house, pop dance, moombahton, oakland hip hop, slap house, dutch edm, rap, progressive electro house, electro house, pop rap, brostep, indie pop rap"
+108,Wormhole,Dillon Marinez,,..\data\audio_files\processed\108.mp3,0.788,0.621,9.0,-7.768,0.0526,0.00117,0.895,0.0751,0.183,126.001,4.0,
+109,Feel Alright,Dillon Nathaniel,Bass House,..\data\audio_files\processed\109.mp3,0.761,0.786,11.0,-9.311,0.0613,0.000151,0.703,0.211,0.796,126.985,4.0,"tech house, bass house"
+110,Obsessions,Dillon Nathaniel,Bass House,..\data\audio_files\processed\110.mp3,0.735,0.883,1.0,-5.916,0.0718,0.0036,0.817,0.298,0.202,126.006,4.0,"tech house, bass house"
+111,Stay High,Diplo/HUGEL/Julia Church,Dance Pop,..\data\audio_files\processed\111.mp3,0.712,0.82,4.0,-6.624,0.0382,0.00226,0.359,0.1,0.322,128.005,4.0,"dance pop, melodic house, edm, pop dance, moombahton, deep house, electro house"
+112,Favela Joint,Diplo/Kura,Dance Pop,..\data\audio_files\processed\112.mp3,0.795,0.967,0.0,-6.225,0.0616,0.000528,0.156,0.043,0.136,129.012,4.0,"big room, dance pop, edm, pop dance, moombahton, progressive electro house, electro house"
+113,Express Yourself - Mochakk Remix,Diplo/Mochakk/Nicky Da B,Dance Pop,..\data\audio_files\processed\113.mp3,0.902,0.541,1.0,-7.522,0.119,0.00233,0.945,0.0642,0.683,128.026,4.0,"bounce, dance pop, edm, pop dance, moombahton, lgbtq+ hip hop, electro house"
+114,Diamond Therapy,Diplo/Walker & Royce/Channel Tres,Dance Pop,..\data\audio_files\processed\114.mp3,0.821,0.774,9.0,-7.384,0.176,0.00474,0.0143,0.0806,0.472,126.977,4.0,"dance pop, edm, bass house, la pop, pop dance, house, moombahton, deep disco house, electro house, tech house, indie soul"
+115,Moonlight,Disclosure,Edm,..\data\audio_files\processed\115.mp3,0.67,0.819,1.0,-6.309,0.0422,0.0108,0.712,0.235,0.243,116.045,4.0,"indietronica, uk dance, house, edm"
+116,Ultimatum - Edit,Disclosure/Fatoumata Diawara,Edm,..\data\audio_files\processed\116.mp3,0.838,0.706,7.0,-7.626,0.067,0.303,0.863,0.0712,0.776,118.017,4.0,"malian blues, afropop, edm, mande pop, house, wassoulou, world, uk dance, indietronica, desert blues"
+117,Magnets - A-Trak Remix,Disclosure/Lorde/A-Trak,Edm,..\data\audio_files\processed\117.mp3,0.618,0.824,10.0,-5.708,0.0937,0.057,0.000241,0.158,0.55,125.011,4.0,"electronic trap, turntablism, edm, house, art pop, canadian electronic, uk dance, nz pop, electro house, indietronica, metropopolis, pop, fidget house"
+118,I See Colors,Disco Lines/Rain Radio,Stutter House,..\data\audio_files\processed\118.mp3,0.71,0.619,6.0,-8.771,0.063,0.047,0.000161,0.162,0.221,133.116,4.0,"stutter house, uk house"
+119,Gumby,DJ Hanzel/Dillon Francis,,..\data\audio_files\processed\119.mp3,0.8,0.574,1.0,-7.707,0.0651,0.00502,0.822,0.132,0.342,124.003,4.0,"edm, pop dance, moombahton, slap house, progressive electro house, electro house, brostep"
+120,Pull Up,DJ Hanzel/Dillon Francis,,..\data\audio_files\processed\120.mp3,0.842,0.583,2.0,-6.85,0.0678,0.00839,0.0423,0.112,0.543,123.993,4.0,"edm, pop dance, moombahton, slap house, progressive electro house, electro house, brostep"
+121,Rock Wit U - Yoruba Soul Mix - Edit,DJ Jazzy Jeff/Erro/Osunlade,East Coast Hip Hop,..\data\audio_files\processed\121.mp3,0.832,0.617,3.0,-18.409,0.101,0.792,0.908,0.0953,0.469,125.2,4.0,"east coast hip hop, afro house, deep house"
+122,The Throne,DJ Minx,Detroit House,..\data\audio_files\processed\122.mp3,0.676,0.83,9.0,-6.966,0.0391,0.000736,0.029,0.153,0.373,127.029,4.0,detroit house
+123,U,DJ Seinfeld,Lo-Fi House,..\data\audio_files\processed\123.mp3,0.759,0.882,10.0,-5.81,0.0339,0.229,0.0403,0.342,0.878,137.058,4.0,"australian electropop, lo-fi house"
+124,Guddi Riddim,DJ Snake/Wade/Nooran Sisters,Dance Pop,..\data\audio_files\processed\124.mp3,0.72,0.978,9.0,-4.495,0.0595,0.00147,0.819,0.0283,0.196,127.984,4.0,"dance pop, electronic trap, edm, qawwali, pop dance, indian folk, tech house, pop"
+125,Eat Your Man (with Nelly Furtado),Dom Dolla/Nelly Furtado,Australian House,..\data\audio_files\processed\125.mp3,0.738,0.883,8.0,-7.989,0.0818,0.053,0.193,0.102,0.651,125.04,4.0,"canadian latin, canadian pop, dance pop, house, deep groove house, pop, australian house"
+126,Saving Up,Dom Dolla,Australian House,..\data\audio_files\processed\126.mp3,0.747,0.822,3.0,-6.373,0.0721,0.00353,0.132,0.165,0.578,129.994,4.0,"house, deep groove house, australian house"
+127,Strangers (with Mansionair),Dom Dolla/Mansionair,Australian House,..\data\audio_files\processed\127.mp3,0.643,0.941,8.0,-5.243,0.0377,0.0599,0.756,0.157,0.174,126.01,4.0,"electra, melodic house, house, aussietronica, swiss pop, deep groove house, deep house, progressive house, indietronica, australian house"
+128,Take It,Dom Dolla,Australian House,..\data\audio_files\processed\128.mp3,0.851,0.742,0.0,-6.126,0.0377,0.0259,0.256,0.111,0.236,123.033,4.0,"house, deep groove house, australian house"
+129,Bless Me (with Discrete),Dombresky/Discrete,Bass House,..\data\audio_files\processed\129.mp3,0.693,0.878,6.0,-6.264,0.0386,0.0122,0.462,0.119,0.384,129.998,4.0,"house, electro house, tech house, bass house"
+130,Futurmastic,Dombresky,Bass House,..\data\audio_files\processed\130.mp3,0.709,0.788,7.0,-7.142,0.0344,0.00989,0.828,0.0882,0.672,125.005,4.0,"house, electro house, tech house, bass house"
+131,Meli-Melo,Dombresky,Bass House,..\data\audio_files\processed\131.mp3,0.682,0.98,8.0,-6.412,0.27,0.148,0.26,0.355,0.602,123.962,4.0,"house, electro house, tech house, bass house"
+132,Soul Sacrifice,Dombresky,Bass House,..\data\audio_files\processed\132.mp3,0.847,0.934,9.0,-5.381,0.0442,0.00783,0.492,0.0797,0.862,126.035,4.0,"house, electro house, tech house, bass house"
+133,Feel It Deep Inside,Dopamine/Sigala,,..\data\audio_files\processed\133.mp3,0.745,0.897,2.0,-4.647,0.141,0.0479,8.43e-06,0.212,0.833,126.011,4.0,"dance pop, edm, uk pop, pop dance, uk dance"
+134,Lights Go Down,Drinks On Me/Why So Low,Bassline,..\data\audio_files\processed\134.mp3,0.688,0.707,4.0,-5.749,0.158,0.0999,9.37e-05,0.157,0.297,128.032,4.0,bassline
+135,LALALA,Duck Sauce/Armand Van Helden/A-Trak,Disco House,..\data\audio_files\processed\135.mp3,0.721,0.773,2.0,-5.2,0.0401,0.00766,0.00874,0.0791,0.395,129.997,4.0,"disco house, classic house, electronic trap, filter house, edm, turntablism, big beat, house, vocal house, uk dance, deep house, speed garage, tribal house, electro house, canadian electronic, fidget house"
+136,Greenleaf,Duke Hugh,Indie Jazz,..\data\audio_files\processed\136.mp3,0.798,0.504,9.0,-16.499,0.0593,0.821,0.849,0.11,0.228,117.075,4.0,indie jazz
+137,Just Be Good To Me - Radio Edit,Earth n Days,Funky House,..\data\audio_files\processed\137.mp3,0.779,0.931,0.0,-4.136,0.0669,0.00915,0.631,0.0822,0.528,124.013,4.0,"funky tech house, funky house"
+138,Naquele Pique,Eddy M/Gabe,Italian Tech House,..\data\audio_files\processed\138.mp3,0.863,0.881,7.0,-8.54,0.0497,0.00305,0.107,0.0767,0.357,129.006,4.0,"tech house, italian tech house, brazilian edm"
+139,Don't Need U (feat. Akua),Eden Prince/Akua,Dance Pop,..\data\audio_files\processed\139.mp3,,,,,,,,,,,,
+140,Lift Your Energy,Eden Prince,Dance Pop,..\data\audio_files\processed\140.mp3,0.622,0.99,11.0,-5.5,0.0424,0.00126,0.612,0.696,0.643,124.008,4.0,"uk dance, deep groove house, dance pop"
+141,Real Good,Eden Prince,Dance Pop,..\data\audio_files\processed\141.mp3,0.832,0.78,7.0,-6.585,0.104,0.0922,0.0192,0.134,0.569,125.013,4.0,"uk dance, deep groove house, dance pop"
+142,This Feeling,Eden Prince/Alex Mills,Dance Pop,..\data\audio_files\processed\142.mp3,0.794,0.635,11.0,-7.754,0.0402,0.118,0.00379,0.0706,0.422,125.971,4.0,"uk pop, uk dance, deep groove house, dance pop"
+143,Toxic,Eden Prince/Marco Foster,Dance Pop,..\data\audio_files\processed\143.mp3,0.791,0.764,11.0,-6.843,0.249,0.175,0.00335,0.266,0.943,125.004,4.0,"uk dance, deep groove house, dance pop"
+144,Memories,Eden Prince/Nonô,Dance Pop,..\data\audio_files\processed\144.mp3,0.909,0.651,11.0,-5.672,0.105,0.161,0.0437,0.0923,0.895,124.026,4.0,"uk dance, deep groove house, dance pop"
+145,Power,Ekali/NITTI,Brostep,..\data\audio_files\processed\145.mp3,0.366,0.76,7.0,-6.497,0.0626,0.232,0.641,0.0822,0.139,159.972,4.0,"electronic trap, edm, vapor twitch, electro house, future bass, canadian electronic, brostep"
+146,Be The One,Eli Brown,House,..\data\audio_files\processed\146.mp3,0.659,0.93,0.0,-5.084,0.043,0.00634,0.177,0.104,0.546,135.977,4.0,"uk dance, house, tech house"
+147,Body Moving,Eliza Rose/Calvin Harris,House,..\data\audio_files\processed\147.mp3,0.788,0.906,10.0,-5.863,0.0382,0.0222,0.00283,0.0822,0.811,128.004,4.0,"dance pop, edm, pop dance, house, uk dance, progressive house, electro house, pop"
+148,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose/Interplanetary Criminal,House,..\data\audio_files\processed\148.mp3,0.736,0.906,0.0,-7.589,0.048,0.164,0.585,0.106,0.698,137.001,4.0,"breaks, house, experimental house"
+149,Pleasure Peak,Eliza Rose/The Martinez Brothers,House,..\data\audio_files\processed\149.mp3,0.766,0.903,9.0,-4.956,0.075,0.0648,0.381,0.102,0.588,130.96,4.0,"house, minimal techno, minimal tech house, deep disco house"
+150,Calling,Ellis Moss,Tech House,..\data\audio_files\processed\150.mp3,0.72,0.828,5.0,-7.648,0.217,0.00932,7.76e-05,0.333,0.196,130.029,4.0,tech house
+151,Control - Disco Lines Remix,Emmit Fenn/Disco Lines,Chill House,..\data\audio_files\processed\151.mp3,0.8,0.656,9.0,-7.486,0.0487,0.39,0.0526,0.288,0.677,126.041,4.0,"stutter house, chill house"
+152,Who Dat,Emmit Fenn,Chill House,..\data\audio_files\processed\152.mp3,0.865,0.591,6.0,-9.574,0.0482,0.00336,0.763,0.0472,0.316,116.983,4.0,chill house
+153,Fakez,Endor,Deep Groove House,..\data\audio_files\processed\153.mp3,0.847,0.632,9.0,-10.492,0.0857,0.00205,0.333,0.0565,0.54,127.979,4.0,"uk dance, deep groove house, scottish rock"
+154,Lovin' is Everywhere,Engelwood,Chillhop,..\data\audio_files\processed\154.mp3,0.639,0.898,0.0,-6.411,0.102,0.0107,0.747,0.892,0.827,123.556,4.0,chillhop
+155,Daemon Veil,Eprom/G Jones,Downtempo Bass,..\data\audio_files\processed\155.mp3,0.227,0.902,6.0,-4.797,0.325,0.00912,0.2,0.0654,0.0718,176.063,4.0,"electronic trap, downtempo bass, wonky, vapor twitch, glitch hop, brostep, experimental bass"
+156,Lennon,ESSEL,Tech House,..\data\audio_files\processed\156.mp3,0.892,0.943,1.0,-3.884,0.108,0.012,0.572,0.208,0.254,127.99,4.0,tech house
+157,Love Vibration,ESSEL,Tech House,..\data\audio_files\processed\157.mp3,0.773,0.903,11.0,-5.279,0.0417,0.00171,0.617,0.0476,0.762,123.926,4.0,tech house
+158,Sweat,ESSEL,Tech House,..\data\audio_files\processed\158.mp3,0.701,0.9,8.0,-3.924,0.0476,0.00254,0.557,0.176,0.344,126.987,4.0,tech house
+159,The Edge,ESSEL,Tech House,..\data\audio_files\processed\159.mp3,0.7,0.648,11.0,-7.759,0.0419,0.122,0.000239,0.0739,0.501,128.015,4.0,tech house
+160,Groove Thang,Ewan McVicar,Scottish Techno,..\data\audio_files\processed\160.mp3,0.72,0.876,2.0,-5.622,0.0432,0.0666,0.00218,0.276,0.566,130.981,4.0,scottish techno
+161,Break Me,Fab Massimo,Tech House,..\data\audio_files\processed\161.mp3,0.697,0.989,0.0,-5.858,0.06,0.0077,0.641,0.348,0.751,128.0,4.0,tech house
+162,Frank Frazetta,Feed Me,Brostep,..\data\audio_files\processed\162.mp3,0.87,0.87,0.0,-5.652,0.158,0.00341,0.285,0.351,0.776,122.001,4.0,"edm, complextro, filthstep, electro house, brostep"
+163,Losing It - Radio Edit,FISHER,Australian House,..\data\audio_files\processed\163.mp3,0.729,0.965,2.0,-5.711,0.0624,0.00176,0.66,0.0973,0.744,125.021,4.0,"house, australian house"
+164,Stop It,FISHER,Australian House,..\data\audio_files\processed\164.mp3,0.859,0.824,8.0,-7.207,0.0512,0.0242,0.66,0.205,0.882,124.015,4.0,"house, australian house"
+165,TAKE IT OFF,FISHER/Aatig,Australian House,..\data\audio_files\processed\165.mp3,0.884,0.707,1.0,-6.607,0.202,0.000502,0.258,0.363,0.582,127.013,4.0,"house, australian house"
+166,Atmosphere,FISHER/Kita Alexander,Australian House,..\data\audio_files\processed\166.mp3,0.762,0.895,8.0,-4.562,0.0737,0.00618,0.145,0.203,0.755,125.979,4.0,"aussietronica, australian indie, house, australian house"
+167,We Give Thee Honor,Floorplan,Chicago House,..\data\audio_files\processed\167.mp3,0.584,0.937,8.0,-4.137,0.044,0.000176,0.124,0.135,0.606,124.952,4.0,"techno, classic house, chicago house, deep house, float house"
+168,Chunky,Format:B,German Tech House,..\data\audio_files\processed\168.mp3,0.803,0.858,10.0,-4.019,0.0538,0.0111,0.096,0.0766,0.862,121.989,4.0,"german techno, german tech house, minimal techno"
+169,Aldo Raine,Fouk,Deep House,..\data\audio_files\processed\169.mp3,0.907,0.624,6.0,-11.075,0.0679,0.0252,0.175,0.367,0.72,117.0,4.0,"deep soul house, deep house, float house, nu disco"
+170,Billie (loving arms),Fred again..,Edm,..\data\audio_files\processed\170.mp3,0.648,0.775,5.0,-4.798,0.0694,0.0561,0.0,0.444,0.371,128.072,4.0,"stutter house, house, edm"
+171,adore u,Fred again../Obongjayar,Edm,..\data\audio_files\processed\171.mp3,0.747,0.867,0.0,-7.311,0.088,0.582,0.00413,0.114,0.684,124.015,4.0,"stutter house, experimental r&b, house, edm"
+172,Baby again..,Fred again../Skrillex/Four Tet,Edm,..\data\audio_files\processed\172.mp3,0.847,0.724,2.0,-7.668,0.047,0.00355,0.00339,0.0731,0.326,126.983,4.0,"edm, stutter house, complextro, house, pop dance, trip hop, intelligent dance music, electro, indietronica, electronica, brostep, folktronica"
+173,Understanding the Possibility,G Jones,Brostep,..\data\audio_files\processed\173.mp3,0.5,0.815,1.0,-5.051,0.127,0.0958,0.0389,0.0877,0.135,160.018,4.0,"vapor twitch, glitch hop, electronic trap, brostep"
+174,Which Way,G Jones,Brostep,..\data\audio_files\processed\174.mp3,0.655,0.886,1.0,-5.496,0.237,0.0827,0.308,0.0996,0.642,123.452,4.0,"vapor twitch, glitch hop, electronic trap, brostep"
+175,Tell Me You Love Me,Galantis/Throttle,Dance Pop,..\data\audio_files\processed\175.mp3,0.762,0.797,5.0,-2.71,0.135,0.117,0.0,0.202,0.525,122.066,4.0,"pop dance, dance pop, pop, edm"
+176,VIRUS - Odd Mob Remix,GEN.KLOUD/Odd Mob,,..\data\audio_files\processed\176.mp3,0.824,0.756,1.0,-5.272,0.0646,0.0135,0.00212,0.0941,0.407,125.967,4.0,"aussietronica, tech house, bass house"
+177,Acid (All Night Long),GENESI,,..\data\audio_files\processed\177.mp3,0.587,0.879,4.0,-5.79,0.0425,0.00134,0.37,0.494,0.13,125.988,4.0,
+178,Everything You Have Done - Meduza Edit,GENESI/MEDUZA,,..\data\audio_files\processed\178.mp3,0.678,0.935,2.0,-6.382,0.0592,0.0459,0.202,0.198,0.485,124.989,4.0,"pop dance, pop house, uk dance, edm"
+179,Work!,Gigamesh/Kaleena Zanders,Electrofox,..\data\audio_files\processed\179.mp3,,,,,,,,,,,,
+180,True Romance (feat. Jarina De Marco) - Chris Lake Remix,Good Times Ahead/Jarina De Marco/Chris Lake,Brostep,..\data\audio_files\processed\180.mp3,0.792,0.663,11.0,-6.124,0.0453,0.0196,0.176,0.0703,0.455,123.998,4.0,"dutch house, electronic trap, edm, bass house, pop dance, house, melbourne bounce, progressive house, electro house, tech house, dominican indie, brostep"
+181,Voodoo,Gorgon City,Future Garage,..\data\audio_files\processed\181.mp3,0.663,0.883,6.0,-6.7,0.0593,0.191,0.687,0.152,0.276,129.057,4.0,"pop dance, house, future garage, uk dance"
+182,Laser Fire,GRiZ,Glitch Hop,..\data\audio_files\processed\182.mp3,0.547,0.96,11.0,-1.257,0.367,0.0268,0.0228,0.874,0.476,149.971,4.0,"jamtronica, glitch hop, jazztronica, livetronica"
+183,Let's Get Weird,GRiZ,Glitch Hop,..\data\audio_files\processed\183.mp3,,,,,,,,,,,,
+184,Born To Flow - Shane D Remix,Groove Junkies/Baskerville Jones/Shane D,Deep House,..\data\audio_files\processed\184.mp3,0.747,0.793,5.0,-6.381,0.0461,0.00585,0.0171,0.0408,0.826,126.016,4.0,"soulful house, deep house"
+185,Infinite,Habstrakt,Bass House,..\data\audio_files\processed\185.mp3,0.69,0.809,1.0,-3.21,0.216,0.00766,0.422,0.187,0.369,126.02,4.0,"electronic trap, dubstep, bass house, complextro, gaming dubstep, filthstep, electro house"
+186,I Wanna,Habstrakt/Jace Mek,Bass House,..\data\audio_files\processed\186.mp3,0.842,0.904,9.0,-3.791,0.21,0.0454,0.0751,0.107,0.479,127.992,4.0,"electronic trap, dubstep, bass house, complextro, gaming dubstep, filthstep, electro house"
+187,Good Love,Hannah Laing/RoRo,Charva,..\data\audio_files\processed\187.mp3,0.775,0.817,1.0,-4.921,0.0656,0.127,0.00273,0.215,0.386,140.033,4.0,"modern alternative pop, charva"
+188,Show Me Love,HELLMATE/Santiago & Carlitos/Chantal Lewis Brown,,..\data\audio_files\processed\188.mp3,0.785,0.736,5.0,-5.643,0.0421,0.0126,0.68,0.35,0.479,128.012,4.0,
+189,Move Mint - VIP,Herobust,Brostep,..\data\audio_files\processed\189.mp3,0.527,0.983,11.0,-1.398,0.252,0.00272,0.564,0.192,0.339,128.225,4.0,"dubstep, electronic trap, brostep"
+190,WTF VIP - Herobust VIP Mix,Herobust,Brostep,..\data\audio_files\processed\190.mp3,0.84,0.972,10.0,0.537,0.41,0.00316,0.00285,0.462,0.411,127.967,4.0,"dubstep, electronic trap, brostep"
+191,Most Really Pretty Girls Have Pretty Ugly Feet,HNNY,Deep House,..\data\audio_files\processed\191.mp3,0.928,0.449,1.0,-10.425,0.0573,0.0862,0.497,0.0889,0.614,119.894,4.0,"swedish synthpop, swedish house, future garage, deep house, swedish electronic, indie soul"
+192,Solsidan - Original Mix,HNNY,Deep House,..\data\audio_files\processed\192.mp3,,,,,,,,,,,,
+193,Stand (feat. Cor.Ece) - Edit,Honey Dijon/Cor.Ece,,..\data\audio_files\processed\193.mp3,0.755,0.622,0.0,-8.642,0.0402,0.104,7.91e-06,0.146,0.539,122.978,4.0,
+194,Bring It Back,HoneyLuv/Cakes da Killa,Tech House,..\data\audio_files\processed\194.mp3,0.749,0.931,9.0,-5.456,0.0453,0.000304,0.00187,0.329,0.351,127.988,4.0,"nyc rap, escape room, lgbtq+ hip hop, tech house, vogue"
+195,Never Enough,Hot Since 82/Us Two/Paige Cavell,Deep Disco House,..\data\audio_files\processed\195.mp3,0.655,0.99,4.0,-5.8,0.0448,0.0172,0.272,0.27,0.883,127.997,4.0,"minimal techno, uk house, uk pop, house, deep disco house"
+196,You & I,HotLap/SHELLS,,..\data\audio_files\processed\196.mp3,0.717,0.845,7.0,-5.057,0.0519,0.031,0.719,0.147,0.281,124.994,4.0,uk pop
+197,NaNa Djon,HUGEL/Francis Mercier/Victor Démé,Deep House,..\data\audio_files\processed\197.mp3,0.762,0.892,1.0,-5.946,0.0471,0.0401,0.107,0.124,0.772,124.994,4.0,"melodic house, afropop, mande pop, burkinabe pop, world, deep house"
+198,Tututu - Radio Edit,HUGEL/Malóne/PV Aparataje/KD One/CVMPANILE/Draxx (ITA),Deep House,..\data\audio_files\processed\198.mp3,0.786,0.951,0.0,-5.205,0.121,0.141,0.00397,0.356,0.497,128.032,4.0,"deep house, dembow dominicano"
+199,Marianela (Que Pasa),HUGEL/Merk & Kremont/Lirico En La Casa,Deep House,..\data\audio_files\processed\199.mp3,0.828,0.893,1.0,-3.344,0.0496,0.033,0.00535,0.0811,0.602,124.043,4.0,"dutch house, sky room, rap dominicano, dembow, deep house, electro house"
+200,Dale,HUGEL/Peppe Citarella/Billy the Diamond,Deep House,..\data\audio_files\processed\200.mp3,0.799,0.975,1.0,-5.925,0.0735,0.04,0.00781,0.0747,0.592,126.008,4.0,"guatemalan pop, afro house, deep house"
+201,Chakachaka,HUGEL/Tom Enzy/Nfasis/Damien N-Drix,Deep House,..\data\audio_files\processed\201.mp3,0.793,0.958,8.0,-5.157,0.0674,0.155,0.55,0.204,0.322,124.005,4.0,"rap dominicano, dembow, deep house, slap house"
+202,Why Can't U,Hush Hush,,..\data\audio_files\processed\202.mp3,,,,,,,,,,,,
+203,Ohh LALA,Idris Elba/Sasha GiGi,Uk Tech House,..\data\audio_files\processed\203.mp3,0.807,0.896,8.0,-7.445,0.0504,3.29e-05,0.823,0.0538,0.963,126.986,4.0,uk tech house
+204,Last Night a D.J. Saved My Life - Smeddles More Ass Mix,Indeep/George Smeddles,Post-Disco,..\data\audio_files\processed\204.mp3,0.834,0.717,6.0,-7.851,0.053,0.0101,0.803,0.0593,0.864,126.0,4.0,"uk tech house, post-disco, tech house"
+205,Angst,INZO,,..\data\audio_files\processed\205.mp3,0.285,0.782,7.0,-6.243,0.126,0.0189,0.0233,0.0994,0.0793,149.951,3.0,
+206,Bass In Yo Face,INZO,,..\data\audio_files\processed\206.mp3,0.72,0.743,2.0,-7.861,0.0816,0.00555,0.562,0.433,0.176,125.027,4.0,
+207,Let It Slide,INZO/Blookah/Leo Napier,,..\data\audio_files\processed\207.mp3,0.431,0.674,2.0,-4.725,0.346,0.0884,0.000805,0.106,0.168,207.147,4.0,
+208,Food for the Soul,it's murph,Stutter House,..\data\audio_files\processed\208.mp3,,,,,,,,,,,,
+209,Dancing At The Disco,J. Worra/Cherry Tooth,Bass House,..\data\audio_files\processed\209.mp3,0.728,0.884,1.0,-5.426,0.0444,0.0403,0.815,0.0783,0.371,129.985,4.0,"tech house, bass house"
+210,All The Girls,J. Worra/Shift K3Y,Bass House,..\data\audio_files\processed\210.mp3,0.643,0.885,9.0,-6.794,0.044,0.00173,0.538,0.321,0.53,129.009,4.0,"uk dance, house, tech house, bass house"
+211,The Feels,jackLNDN,Nu Disco,..\data\audio_files\processed\211.mp3,0.821,0.488,1.0,-8.744,0.0402,0.111,0.0333,0.091,0.329,115.021,4.0,nu disco
+212,Drums (Feat. Kim Petras),James Hype/Kim Petras,Deep Groove House,..\data\audio_files\processed\212.mp3,0.803,0.834,5.0,-5.491,0.0366,0.0162,0.00197,0.16,0.563,128.008,4.0,"alt z, pop dance, house, uk dance, deep groove house, transpop, pop"
+213,Lose Control,James Hype,Deep Groove House,..\data\audio_files\processed\213.mp3,0.714,0.936,9.0,-3.693,0.0426,0.0338,0.0239,0.244,0.243,128.011,4.0,"house, pop dance, deep groove house, uk dance"
+214,Number 1,James Hype/Major Lazer,Deep Groove House,..\data\audio_files\processed\214.mp3,0.707,0.969,9.0,-5.181,0.0882,0.129,0.876,0.0913,0.251,129.984,4.0,"dance pop, edm, pop dance, house, moombahton, uk dance, deep groove house, electro house, pop"
+215,The Boy Is Mine,James Mac/Vall/Rosalie,Melodic House,..\data\audio_files\processed\215.mp3,0.741,0.879,1.0,-6.132,0.0425,0.0841,0.0433,0.126,0.362,123.004,4.0,melodic house
+216,Fine Fine Baby (with Kah-Lo),Jamie Jones/Kah-Lo,Deep Disco House,..\data\audio_files\processed\216.mp3,0.601,0.887,5.0,-6.493,0.0396,0.000182,0.629,0.248,0.509,124.008,4.0,"uk tech house, minimal techno, house, deep house, deep disco house, nigerian pop"
+217,Lose My Mind,Jamie Jones,Deep Disco House,..\data\audio_files\processed\217.mp3,0.646,0.898,10.0,-6.27,0.0358,0.00119,0.0406,0.189,0.62,124.002,4.0,"uk tech house, minimal techno, house, deep house, deep disco house"
+218,Rinse,Jared Jackson,,..\data\audio_files\processed\218.mp3,0.815,0.66,6.0,-6.665,0.063,0.0767,0.509,0.233,0.583,122.023,4.0,
+219,Forever,Jax Jones/RobbieG,Dance Pop,..\data\audio_files\processed\219.mp3,0.719,0.903,1.0,-4.021,0.0541,0.107,0.0,0.374,0.753,139.949,4.0,"dance pop, edm, pop dance, house, uk pop, uk dance"
+220,Giving Me,Jazzy,Pop Dance,..\data\audio_files\processed\220.mp3,0.735,0.651,7.0,-9.25,0.112,0.329,0.000205,0.131,0.476,127.07,4.0,pop dance
+221,NRG,Jazzy,Pop Dance,..\data\audio_files\processed\221.mp3,0.735,0.971,7.0,-4.501,0.144,0.305,0.0,0.0784,0.602,128.055,4.0,pop dance
+222,Stardust,Jazzy,Pop Dance,..\data\audio_files\processed\222.mp3,0.754,0.812,11.0,-4.489,0.0372,0.0364,0.00188,0.221,0.779,140.0,4.0,pop dance
+223,Bel Mercy,Jengi,Dutch Pop,..\data\audio_files\processed\223.mp3,0.945,0.759,1.0,-5.971,0.0865,0.231,0.651,0.0989,0.688,127.024,4.0,dutch pop
+224,Take U,Jengi,Dutch Pop,..\data\audio_files\processed\224.mp3,0.678,0.943,5.0,-4.306,0.0419,0.0479,0.018,0.106,0.581,131.986,4.0,dutch pop
+225,Vibration,Jenn Getz & Alfie,,..\data\audio_files\processed\225.mp3,0.802,0.742,11.0,-7.654,0.0537,0.00284,0.163,0.114,0.372,125.985,4.0,
+226,Bad Bassline,Jenn Getz & Alfie/DJ Luck & MC Neat,,..\data\audio_files\processed\226.mp3,0.812,0.758,1.0,-8.759,0.117,0.0118,2.07e-05,0.305,0.343,127.968,4.0,"grime, uk garage"
+227,Temptation (feat. Poppy Baskcomb),Jess Bays/Poppy Baskcomb,Uk Dance,..\data\audio_files\processed\227.mp3,0.744,0.703,3.0,-8.111,0.048,0.0195,0.00449,0.141,0.819,125.023,3.0,uk dance
+228,Colourblind,Jess Bays/Hayley May,Uk Dance,..\data\audio_files\processed\228.mp3,0.742,0.835,8.0,-6.23,0.0385,0.033,0.00156,0.22,0.577,127.013,4.0,uk dance
+229,Real Love,Jess Bays/Kelli-Leigh,Uk Dance,..\data\audio_files\processed\229.mp3,0.627,0.939,5.0,-3.556,0.102,0.00204,0.000687,0.324,0.577,126.968,4.0,"uk dance, uk pop"
+230,Come My Way,JLV/Jawedsway/Jerry Island,Chill House,..\data\audio_files\processed\230.mp3,0.81,0.645,4.0,-5.672,0.0451,0.0987,0.0246,0.181,0.341,124.014,4.0,"chill house, pop edm"
+231,Show Me (feat. Hannah Boleyn),John Summit/Hannah Boleyn,Edm,..\data\audio_files\processed\231.mp3,0.663,0.802,2.0,-5.126,0.0381,0.005,0.0419,0.617,0.307,125.989,4.0,"edm, pop dance, house, uk dance, tech house"
+232,Where You Are - Gorgon City Remix,John Summit/Hayla/Gorgon City,Edm,..\data\audio_files\processed\232.mp3,0.613,0.878,4.0,-7.923,0.054,0.0334,0.302,0.1,0.108,130.041,4.0,"edm, pop dance, house, uk dance, future garage, tech house"
+233,Legacy,John Summit/VLTRA (IT),Edm,..\data\audio_files\processed\233.mp3,0.719,0.841,11.0,-7.894,0.0467,0.000784,0.57,0.298,0.0448,128.037,4.0,"edm, pop dance, house, uk dance, tech house"
+234,I Don't Speak French (Adieu),Jonas Aden/RebMoe,Dutch House,..\data\audio_files\processed\234.mp3,0.781,0.663,1.0,-4.435,0.0664,0.0506,0.0011,0.0693,0.653,125.947,4.0,"dutch house, pop edm"
+235,JOY (Up The Street),Joy Anonymous,,..\data\audio_files\processed\235.mp3,0.76,0.669,8.0,-5.23,0.199,0.0528,0.00455,0.145,0.636,127.04,4.0,
+236,4AM,JOYRYDE,Bass House,..\data\audio_files\processed\236.mp3,0.675,0.993,0.0,-1.887,0.106,0.00241,0.594,0.158,0.103,136.012,4.0,"electronic trap, edm, bass house, electro house, brostep"
+237,ON FIRE,JOYRYDE,Bass House,..\data\audio_files\processed\237.mp3,0.784,0.91,1.0,-2.698,0.0823,0.00735,0.588,0.28,0.596,125.026,4.0,"electronic trap, edm, bass house, electro house, brostep"
+238,i'm shy when i'm around you,Justin Jay,Bass House,..\data\audio_files\processed\238.mp3,,,,,,,,,,,,
+239,I Feel It,Kaivon,Future Bass,..\data\audio_files\processed\239.mp3,0.689,0.351,4.0,-8.691,0.0632,0.32,0.864,0.348,0.162,75.006,4.0,"future bass, melodic dubstep"
+240,All Fckd Up,Kapuzen,Tech House,..\data\audio_files\processed\240.mp3,0.719,0.923,6.0,-7.272,0.0407,0.00167,0.883,0.109,0.64,126.006,4.0,tech house
+241,Jorts FTW,Kaskade/Too Many Zooz,Edm,..\data\audio_files\processed\241.mp3,0.728,0.971,1.0,-4.232,0.1,0.0029,0.869,0.0633,0.192,127.994,4.0,"edm, pop dance, brass band pop, brass band, vocal house, progressive house, electro house, progressive electro house"
+242,Girl,KC Lights,Deep Groove House,..\data\audio_files\processed\242.mp3,0.628,0.917,8.0,-7.623,0.0428,8.43e-05,0.213,0.179,0.261,122.976,4.0,"house, uk dance, deep groove house, scottish electronic"
+243,Better Times,KC Lights/Låpsley,Deep Groove House,..\data\audio_files\processed\243.mp3,0.567,0.865,2.0,-5.482,0.0674,0.0449,0.0026,0.414,0.509,126.996,4.0,"house, electropop, gauze pop, uk dance, deep groove house, scottish electronic"
+244,You Are In My System - Faster Horses Sport Mix,Kerri Chandler/Dennis Quin/Troy Denari/Faster Horses,Deep House,..\data\audio_files\processed\244.mp3,0.577,0.964,10.0,-6.705,0.0689,0.00634,0.0753,0.106,0.892,139.935,4.0,"dutch tech house, garage house, deep groove house, deep house"
+245,Work,Kevin McKay/Denise Belfon/Pupa Nas T,Tech House,..\data\audio_files\processed\245.mp3,0.854,0.945,6.0,-5.532,0.108,0.00156,0.0175,0.273,0.394,127.97,4.0,"chutney, soca, tech house"
+246,Hideaway,Kiesza,Electropop,..\data\audio_files\processed\246.mp3,0.838,0.72,7.0,-4.135,0.0483,0.0862,0.00696,0.0772,0.203,122.993,4.0,"pop edm, electropop"
+247,Red Lights (feat. Dotter) [Just A Gent Remix],Kill Paris/Dotter/Just A Gent,Chillstep,..\data\audio_files\processed\247.mp3,,,,,,,,,,,,
+248,Love All Day feat. Leela D - Radio Edit,Kisch/Leela D,Deep Groove House,..\data\audio_files\processed\248.mp3,0.791,0.497,1.0,-8.284,0.0538,0.0639,0.0262,0.11,0.792,124.006,4.0,"uk dance, deep groove house"
+249,Low Rider (2livemafia Remix),Klypso/Snoop Dogg/Doggface/War/2livemafia,,..\data\audio_files\processed\249.mp3,0.901,0.933,0.0,-6.682,0.329,0.12,0.018,0.367,0.731,132.074,4.0,"west coast rap, motown, funk, rap, g funk, p funk, pop rap, classic soul, soul, hip hop, gangster rap"
+250,REWiND - Wolfgang Gartner Remix,Knock2/Wolfgang Gartner,Bassline,..\data\audio_files\processed\250.mp3,0.762,0.869,11.0,-5.203,0.106,7.29e-05,0.00899,0.337,0.485,125.978,4.0,"edm, complextro, house, bassline, progressive electro house, electro house"
+251,Sweat,KREAM,Pop Dance,..\data\audio_files\processed\251.mp3,0.647,0.798,10.0,-7.049,0.0393,0.00793,0.0196,0.105,0.159,126.028,4.0,pop dance
+252,The Switch,KREAM,Pop Dance,..\data\audio_files\processed\252.mp3,0.643,0.975,7.0,-5.636,0.0495,0.00093,0.707,0.104,0.562,124.981,4.0,pop dance
+253,Changes,Kungs/Shadow Child,Edm,..\data\audio_files\processed\253.mp3,0.787,0.727,0.0,-4.213,0.0566,0.00868,0.438,0.066,0.39,130.01,4.0,"edm, pop dance, house, uk dance, minimal tech house"
+254,Easy Tiger,Kyle Watson,Bass House,..\data\audio_files\processed\254.mp3,0.777,0.868,5.0,-5.606,0.045,0.00169,0.879,0.2,0.92,127.005,4.0,"house, tech house, bass house, fidget house"
+255,Escaping It (feat. Tania Foster),Kyle Watson/Tania Foster,Bass House,..\data\audio_files\processed\255.mp3,0.778,0.886,6.0,-6.697,0.0726,0.00937,0.365,0.0873,0.578,128.002,4.0,"house, tech house, bass house, fidget house"
+256,The Reason,Kyle Watson,Bass House,..\data\audio_files\processed\256.mp3,0.741,0.744,9.0,-6.081,0.079,0.0133,0.89,0.349,0.696,126.035,4.0,"house, tech house, bass house, fidget house"
+257,TikTak,Laidback Luke/Öwnboss/Kapuzen,Big Room,..\data\audio_files\processed\257.mp3,0.881,0.842,8.0,-6.468,0.135,0.0245,0.146,0.116,0.698,126.031,4.0,"big room, dutch house, edm, melbourne bounce, house, pop dance, dutch edm, progressive electro house, electro house, progressive house, brazilian edm, tech house"
+258,Never Leave You (Uh Oh) - Club Mix,Leandro Da Silva/AtcG/Sara De Sanctis,,..\data\audio_files\processed\258.mp3,0.781,0.841,7.0,-5.442,0.0462,0.0132,0.339,0.104,0.314,127.996,4.0,
+259,Colourblind,Les Loups/Cybil,Filter House,..\data\audio_files\processed\259.mp3,0.845,0.446,1.0,-9.195,0.1,0.0456,0.000373,0.0866,0.874,119.963,4.0,"hard dance, filter house, nu disco"
+260,Love's Just a Feeling (feat. Rooty),Lindsey Stirling/RuthAnne,Bow Pop,..\data\audio_files\processed\260.mp3,,,,,,,,,,,,
+261,Wonder Woman - NVOY Remix,LION BABE/NVOY,Alternative R&B,..\data\audio_files\processed\261.mp3,0.714,0.681,0.0,-8.562,0.0418,0.00198,0.633,0.171,0.279,121.016,4.0,"house, alternative r&b, deep groove house, indie soul"
+262,Connected,LO'99,Australian House,..\data\audio_files\processed\262.mp3,0.736,0.848,7.0,-7.218,0.039,0.000955,0.693,0.115,0.426,129.995,4.0,"deep groove house, australian house, bass house"
+263,Skydance,LO'99/Ray Foxx,Australian House,..\data\audio_files\processed\263.mp3,0.823,0.912,5.0,-5.462,0.0542,0.0102,0.619,0.0976,0.372,132.04,4.0,"deep groove house, australian house, bass house"
+264,Break It Down - Original Mix,Loge21,Bass House,..\data\audio_files\processed\264.mp3,0.729,0.995,1.0,-1.726,0.173,0.00513,0.537,0.116,0.449,110.005,4.0,"electro house, bass house"
+265,Drop That,Loge21,Bass House,..\data\audio_files\processed\265.mp3,0.768,0.643,8.0,-6.029,0.31,0.00638,0.15,0.101,0.152,123.844,4.0,"electro house, bass house"
+266,Ghetto Symphony,Loge21,Bass House,..\data\audio_files\processed\266.mp3,0.728,0.633,7.0,-6.311,0.156,0.0454,0.0969,0.0687,0.347,122.119,4.0,"electro house, bass house"
+267,New Life,Loge21,Bass House,..\data\audio_files\processed\267.mp3,0.742,0.936,9.0,-3.924,0.191,0.0425,0.0701,0.0854,0.493,127.973,4.0,"electro house, bass house"
+268,It Made Me Fearless - ASHEZ Remix,L*o*J/Ashez,Experimental Bass,..\data\audio_files\processed\268.mp3,0.731,0.567,11.0,-7.926,0.0359,0.0272,0.949,0.101,0.346,144.014,4.0,"nz electronic, experimental bass"
+269,COULD BE WRONG,LOSTBOYJAY,,..\data\audio_files\processed\269.mp3,0.891,0.77,0.0,-8.391,0.123,0.0213,0.00157,0.213,0.855,129.004,4.0,
+270,Waiting,LP Giobbi/Redfield/DJ Rae,House,..\data\audio_files\processed\270.mp3,0.657,0.97,5.0,-6.283,0.0582,0.000366,0.276,0.318,0.618,125.002,4.0,house
+271,If Love Is A Skill,LP Giobbi/Sofi Tukker,House,..\data\audio_files\processed\271.mp3,0.599,0.63,9.0,-11.511,0.0375,0.228,0.182,0.208,0.291,122.042,3.0,"house, edm"
+272,R.A.V.E - Zingara Remix,LSDREAM/Shlump/Zingara,,..\data\audio_files\processed\272.mp3,0.4,0.958,10.0,-3.113,0.561,0.00825,0.000368,0.513,0.171,126.068,4.0,experimental bass
+273,STARCHILD,LSDREAM/Shlump/Sarah Hudson,,..\data\audio_files\processed\273.mp3,0.679,0.96,9.0,-2.485,0.0506,0.00323,0.0369,0.288,0.201,96.002,4.0,experimental bass
+274,Vermilion,Luca Lush,Electronic Trap,..\data\audio_files\processed\274.mp3,0.495,0.968,7.0,-2.749,0.0718,0.013,0.561,0.424,0.274,94.97,4.0,"vapor twitch, electronic trap"
+275,Shut Up - Leagas Rmx,Lucci Minati/Leagas,,..\data\audio_files\processed\275.mp3,0.856,0.879,11.0,-6.655,0.083,0.00685,0.014,0.21,0.558,128.019,4.0,
+276,Get Hard (You In The Lobby),Luke Dean,,..\data\audio_files\processed\276.mp3,0.809,0.918,0.0,-4.168,0.0457,0.00584,0.0196,0.121,0.734,129.994,4.0,
+277,Beatin' Tha Breaks - Fouk Remix,Magic In Threes,Instrumental Funk,..\data\audio_files\processed\277.mp3,0.843,0.477,9.0,-11.968,0.0595,0.158,0.888,0.1,0.44,115.007,4.0,instrumental funk
+278,Downstream,Makèz/Life on Planets,,..\data\audio_files\processed\278.mp3,0.856,0.766,8.0,-8.365,0.0686,0.000496,0.0435,0.484,0.671,129.985,4.0,indie soul
+279,Bling Bling (2020 Remix),Malaa,Bass House,..\data\audio_files\processed\279.mp3,0.77,0.673,10.0,-7.137,0.0468,0.000658,0.551,0.0312,0.194,126.002,4.0,"electronic trap, edm, bass house, house, electro house, brostep"
+280,Bling Bling (Delayers Remix),Malaa/Delayers,Bass House,..\data\audio_files\processed\280.mp3,0.754,0.786,10.0,-5.467,0.0741,0.138,0.0157,0.0776,0.546,128.001,4.0,"electronic trap, edm, bass house, house, electro house, musica sammarinese, brostep"
+281,Bling Bling,Malaa,Bass House,..\data\audio_files\processed\281.mp3,0.77,0.673,10.0,-7.137,0.0468,0.000658,0.551,0.0312,0.194,126.002,4.0,"electronic trap, edm, bass house, house, electro house, brostep"
+282,Bylina (Bellecour Remix),Malaa/Bellecour,Bass House,..\data\audio_files\processed\282.mp3,,,,,,,,,,,,
+283,Hostyl,Malaa/Dombresky,Bass House,..\data\audio_files\processed\283.mp3,0.87,0.872,6.0,-2.245,0.0543,0.0455,0.763,0.0662,0.266,123.993,4.0,"electronic trap, edm, bass house, house, tech house, electro house, brostep"
+284,Sweet Dreams,Marcus Layton,German Dance,..\data\audio_files\processed\284.mp3,0.732,0.714,0.0,-7.432,0.0791,0.332,1.05e-06,0.131,0.376,121.982,4.0,german dance
+285,Feel Good Inc.,Marcus Layton/Nonô,German Dance,..\data\audio_files\processed\285.mp3,0.703,0.842,4.0,-5.901,0.275,0.0412,0.0,0.124,0.463,122.023,4.0,german dance
+286,Lady (Hear Me Tonight),Mark Knight/James Hurr,House,..\data\audio_files\processed\286.mp3,0.687,0.953,9.0,-3.373,0.139,0.0274,0.000107,0.061,0.243,125.031,4.0,"uk house, house, tech house, progressive house"
+287,Anøther Dimensiøn,Marten Hørger,Bass House,..\data\audio_files\processed\287.mp3,0.808,0.994,11.0,-3.93,0.306,0.0274,0.817,0.34,0.194,123.98,4.0,"tech house, bass house"
+288,GONNA BE ME,Marten Hørger,Bass House,..\data\audio_files\processed\288.mp3,0.754,0.857,1.0,-5.111,0.0519,0.122,0.864,0.115,0.612,125.012,4.0,"tech house, bass house"
+289,I Am Ready,Marten Hørger,Bass House,..\data\audio_files\processed\289.mp3,0.757,0.981,1.0,-5.306,0.0601,0.00171,0.891,0.0736,0.295,125.029,4.0,"tech house, bass house"
+290,Jungle,Marten Hørger,Bass House,..\data\audio_files\processed\290.mp3,0.86,0.943,1.0,-4.0,0.158,0.0205,0.08,0.271,0.362,122.974,4.0,"tech house, bass house"
+291,Heavy,Marten Hørger/Neon Steve,Bass House,..\data\audio_files\processed\291.mp3,0.84,0.729,5.0,-4.954,0.0882,0.027,0.00224,0.165,0.432,123.981,4.0,"canadian electronic, tech house, bass house"
+292,You Don't,Marten Hørger/Neon Steve,Bass House,..\data\audio_files\processed\292.mp3,0.913,0.787,11.0,-4.584,0.284,0.0681,0.339,0.0492,0.151,122.995,4.0,"canadian electronic, tech house, bass house"
+293,Make U Sweat,Martin Ikin,Bass House,..\data\audio_files\processed\293.mp3,0.735,0.972,1.0,-3.557,0.0553,0.0108,0.508,0.292,0.292,130.027,4.0,"house, tech house, bass house"
+294,Fairy Tale,Marvin Aloys,,..\data\audio_files\processed\294.mp3,0.733,0.865,8.0,-7.044,0.0611,0.0103,0.585,0.315,0.557,124.024,4.0,
+295,Deep Inside - Extended,Mat Zo,Complextro,..\data\audio_files\processed\295.mp3,0.746,0.671,6.0,-5.806,0.0553,0.0767,0.000628,0.111,0.121,123.973,4.0,"edm, complextro, progressive house, electro house, progressive electro house"
+296,Motivate,Mat Zo,Complextro,..\data\audio_files\processed\296.mp3,0.756,0.798,8.0,-2.336,0.174,0.0076,0.0585,0.0726,0.366,86.968,4.0,"edm, complextro, progressive house, electro house, progressive electro house"
+297,Bang (feat. Dances With White Girls) - ANGELZ Remix,Matroda/Dances/ANGELZ,Bass House,..\data\audio_files\processed\297.mp3,0.935,0.642,10.0,-6.592,0.143,0.0218,0.73,0.162,0.491,124.982,3.0,"electro house, bmore, tech house, bass house"
+298,Bang (feat. Dances With White Girls),Matroda/Dances,Bass House,..\data\audio_files\processed\298.mp3,0.839,0.9,8.0,-5.036,0.0802,0.0276,0.771,0.0734,0.569,125.012,4.0,"electro house, bmore, tech house, bass house"
+299,Boom Bap,Matroda,Bass House,..\data\audio_files\processed\299.mp3,0.803,0.923,1.0,-3.902,0.107,0.00687,0.299,0.205,0.244,125.006,4.0,"electro house, tech house, bass house"
+300,Can’t Fight The Feeling,Matroda,Bass House,..\data\audio_files\processed\300.mp3,0.878,0.882,1.0,-4.143,0.223,0.00861,2.39e-05,0.201,0.64,125.98,4.0,"electro house, tech house, bass house"
+301,D.A.N.C.I.N.G,Matroda,Bass House,..\data\audio_files\processed\301.mp3,0.834,0.99,11.0,-4.16,0.0533,0.136,0.795,0.0677,0.657,124.068,4.0,"electro house, tech house, bass house"
+302,Deep Inside 2020,Matroda,Bass House,..\data\audio_files\processed\302.mp3,0.8,0.902,1.0,-3.518,0.0648,0.00377,0.265,0.123,0.23,124.002,4.0,"electro house, tech house, bass house"
+303,Do You Remember House?,Matroda,Bass House,..\data\audio_files\processed\303.mp3,0.82,0.847,11.0,-4.876,0.133,0.0619,0.625,0.0843,0.531,124.058,4.0,"electro house, tech house, bass house"
+304,My Mind,Matroda,Bass House,..\data\audio_files\processed\304.mp3,0.772,0.987,8.0,-5.311,0.0523,0.0037,0.816,0.0309,0.363,127.001,4.0,"electro house, tech house, bass house"
+305,No Sleep (6AM) (feat. MERYLL),Matroda/MERYLL,Bass House,..\data\audio_files\processed\305.mp3,0.822,0.835,8.0,-7.664,0.0901,0.0043,0.188,0.0788,0.8,126.018,4.0,"electro house, tech house, bass house"
+306,True G (feat. BRUX),Matroda/BRUX,Bass House,..\data\audio_files\processed\306.mp3,0.845,0.856,1.0,-3.783,0.138,0.0186,0.549,0.0634,0.844,124.021,4.0,"electro house, tech house, bass house"
+307,Walk In The Spot,Matroda,Bass House,..\data\audio_files\processed\307.mp3,0.764,0.908,7.0,-3.976,0.0735,0.00862,0.742,0.0977,0.354,124.019,4.0,"electro house, tech house, bass house"
+308,Wasting Time,Matroda,Bass House,..\data\audio_files\processed\308.mp3,0.799,0.937,6.0,-7.677,0.225,0.00268,0.888,0.044,0.0362,124.962,4.0,"electro house, tech house, bass house"
+309,Disco Tool - Taiki Nulight Remix,Matroda/Bleu Clair/Taiki Nulight,Bass House,..\data\audio_files\processed\309.mp3,0.811,0.759,10.0,-6.822,0.0467,0.000847,0.774,0.0551,0.423,126.049,4.0,"indonesian edm, doujin, bass house, tech house, electro house"
+310,Disco Tool,Matroda/Bleu Clair,Bass House,..\data\audio_files\processed\310.mp3,0.811,0.759,10.0,-6.822,0.0467,0.000847,0.774,0.0551,0.423,126.049,4.0,"indonesian edm, doujin, bass house, tech house, electro house"
+311,Raise Em Up,Matroda/Loge21,Bass House,..\data\audio_files\processed\311.mp3,0.809,0.786,2.0,-3.615,0.0664,0.002,0.217,0.0617,0.345,124.0,4.0,"electro house, tech house, bass house"
+312,The Funk You Want,Matroda/POLOVICH,Bass House,..\data\audio_files\processed\312.mp3,0.828,0.874,4.0,-5.442,0.0878,0.00115,0.197,0.101,0.101,130.004,4.0,"electro house, tech house, bass house"
+313,The One,Matroda/San Pacho,Bass House,..\data\audio_files\processed\313.mp3,0.778,0.863,8.0,-3.557,0.0544,0.00512,0.786,0.0457,0.14,126.021,4.0,"electro house, tech house, bass house"
+314,Body Move,Matroda/Tom Budin,Bass House,..\data\audio_files\processed\314.mp3,0.842,0.914,2.0,-5.796,0.135,0.053,0.00128,0.0593,0.388,130.009,4.0,"bass house, slap house, deep groove house, tech house, electro house"
+315,Give It To Me - Full Vocal Mix,Matt Sassari,French Tech House,..\data\audio_files\processed\315.mp3,0.874,0.869,1.0,-5.996,0.0315,0.00116,0.00238,0.164,0.726,126.027,4.0,"french techno, french tech house, tech house"
+316,Paris to Milan,Matt Sassari/Ashibah,French Tech House,..\data\audio_files\processed\316.mp3,0.816,0.718,2.0,-6.476,0.0467,0.0159,0.0554,0.342,0.639,126.007,4.0,"french techno, french tech house, tech house, brazilian edm"
+317,Dress Code,Mau P,Tech House,..\data\audio_files\processed\317.mp3,0.716,0.94,1.0,-5.443,0.0539,0.00799,0.728,0.0807,0.737,128.015,4.0,tech house
+318,Gimme That Bounce,Mau P,Tech House,..\data\audio_files\processed\318.mp3,0.801,0.96,8.0,-5.534,0.264,0.0284,0.877,0.0985,0.101,126.045,4.0,tech house
+319,Deep Inside,Maur,Uk Dance,..\data\audio_files\processed\319.mp3,0.637,0.936,11.0,-5.274,0.0371,0.0465,0.00015,0.104,0.497,126.027,3.0,uk dance
+320,Set You Free,Maur/FABER,Uk Dance,..\data\audio_files\processed\320.mp3,0.601,0.927,10.0,-5.12,0.0417,0.000551,0.177,0.275,0.525,126.083,4.0,uk dance
+321,Hypnotic,Max Styler,Brostep,..\data\audio_files\processed\321.mp3,0.8,0.882,10.0,-5.34,0.0486,0.0033,0.887,0.0844,0.267,126.019,4.0,"tech house, brostep"
+322,Satisfy,Max Styler,Brostep,..\data\audio_files\processed\322.mp3,0.666,0.732,5.0,-5.383,0.0893,0.00553,0.768,0.0772,0.237,130.022,4.0,"tech house, brostep"
+323,God Made Me Phunky - Jess Bays Remix,MD X-Spress/Jess Bays,Classic House,..\data\audio_files\processed\323.mp3,0.792,0.973,6.0,-5.746,0.103,0.000442,0.465,0.089,0.53,128.017,4.0,"uk dance, classic house"
+324,Forgiveness,Me & My Toothbrush,,..\data\audio_files\processed\324.mp3,0.0,0.134,4.0,-12.417,0.0,0.929,0.00107,0.323,0.0,0.0,0.0,
+325,Musica,MEDUZA,Edm,..\data\audio_files\processed\325.mp3,0.655,0.672,2.0,-6.595,0.0718,0.00767,0.678,0.107,0.117,126.02,4.0,"pop dance, pop house, uk dance, edm"
+326,I Got Nothing,MEDUZA/Ferreck Dawn/Clementine Douglas,Edm,..\data\audio_files\processed\326.mp3,0.593,0.901,1.0,-6.908,0.0702,0.0685,0.212,0.185,0.41,124.971,4.0,"edm, pop dance, house, uk dance, pop house, deep groove house, tech house"
+327,Everything You Have Done,MEDUZA/GENESI,Edm,..\data\audio_files\processed\327.mp3,0.699,0.926,2.0,-6.249,0.063,0.0449,0.113,0.2,0.468,124.991,4.0,"pop dance, pop house, uk dance, edm"
+328,Say It To My Face,Melissa Pools/Axel North,,..\data\audio_files\processed\328.mp3,0.793,0.738,9.0,-6.128,0.0573,0.0051,0.0512,0.112,0.687,125.012,4.0,
+329,Transcendence,MEMBA/Kahani,Indian Edm,..\data\audio_files\processed\329.mp3,0.695,0.856,2.0,-5.22,0.0484,0.0383,0.683,0.104,0.416,128.008,4.0,"traprun, vapor twitch, indian edm"
+330,Bim Boom Bam,Merk & Kremont,Dutch House,..\data\audio_files\processed\330.mp3,0.792,0.96,8.0,-4.474,0.0605,0.0167,0.00356,0.128,0.675,128.01,4.0,"dutch house, electro house, sky room"
+331,Move With Me,Mia More/Able Faces,,..\data\audio_files\processed\331.mp3,0.796,0.699,1.0,-7.2,0.0871,0.0468,0.0094,0.0862,0.477,127.986,4.0,tropical house
+332,Rosa - Malóne Remix,Mia Moretti/Malóne,,..\data\audio_files\processed\332.mp3,0.799,0.92,3.0,-6.406,0.0485,0.00409,0.577,0.369,0.708,127.996,4.0,
+333,Different Side,Michael Bibi/KinAhau/Audio Bullys,Tech House,..\data\audio_files\processed\333.mp3,0.816,0.704,7.0,-7.729,0.0617,0.000595,0.00467,0.11,0.283,127.979,4.0,"big beat, breakbeat, tech house"
+334,Waiting,Midnight Pool Party,Synth Funk,..\data\audio_files\processed\334.mp3,0.778,0.399,6.0,-9.77,0.311,0.0734,0.0,0.0978,0.659,117.011,4.0,synth funk
+335,DJ Beat That Shhh - extended mixX,Mike Dunn/MD X-Spress,Chicago House,..\data\audio_files\processed\335.mp3,0.868,0.718,8.0,-6.116,0.0464,0.0218,0.0279,0.049,0.756,123.999,4.0,"classic house, deep house, chicago house"
+336,Take My Chance,MK,House,..\data\audio_files\processed\336.mp3,0.637,0.947,1.0,-5.116,0.0361,0.0602,0.678,0.148,0.562,126.003,4.0,"pop dance, house"
+337,Rhyme Dust,MK/Dom Dolla,House,..\data\audio_files\processed\337.mp3,0.925,0.561,3.0,-8.675,0.176,0.0659,0.0271,0.152,0.721,128.034,4.0,"pop dance, house, deep groove house, australian house"
+338,Jealous,Mochakk,,..\data\audio_files\processed\338.mp3,0.715,0.852,1.0,-6.001,0.057,0.00321,0.834,0.0412,0.45,127.996,4.0,
+339,More Love - Rampa &ME Remix,Moderat/Keinemusik/Rampa/&ME,Electronica,..\data\audio_files\processed\339.mp3,0.646,0.779,4.0,-10.793,0.0423,0.000542,0.821,0.112,0.127,122.0,4.0,"indietronica, electronica, melodic house, deep disco house"
+340,Never Get To You,Moon Boots/Antony & Cleopatra,Filter House,..\data\audio_files\processed\340.mp3,0.844,0.675,10.0,-7.357,0.0724,0.00877,0.0814,0.642,0.603,121.026,4.0,"australian electropop, filter house, indie soul, nu disco"
+341,I Want Your Attention,Moon Boots/Fiora,Filter House,..\data\audio_files\processed\341.mp3,0.806,0.608,11.0,-7.57,0.0496,0.0178,0.314,0.13,0.561,122.0,4.0,"vocal trance, filter house, indie soul, nu disco"
+342,Can You Feel It,MORTEN,Danish Electronic,..\data\audio_files\processed\342.mp3,0.858,0.838,11.0,-7.633,0.151,0.0157,0.836,0.0901,0.309,126.005,4.0,"danish electronic, scandipop"
+343,Ain't No Other Man - Rework,Murphy's Law (UK),,..\data\audio_files\processed\343.mp3,,,,,,,,,,,,
+344,Vente,Nic Fanciulli/Calussa,Deep Disco House,..\data\audio_files\processed\344.mp3,0.749,0.874,7.0,-6.839,0.0374,0.00903,0.643,0.0994,0.752,128.012,4.0,"minimal techno, deep minimal techno, house, afro house, tribal house, deep disco house"
+345,Atmosphere,Niko The Kid,Tech House,..\data\audio_files\processed\345.mp3,0.903,0.833,11.0,-8.193,0.174,0.00429,0.809,0.121,0.338,125.007,4.0,tech house
+346,Dance Du Sol (Badapa),Niko The Kid,Tech House,..\data\audio_files\processed\346.mp3,0.763,0.884,6.0,-6.509,0.169,0.0274,0.893,0.223,0.447,126.046,4.0,tech house
+347,Hella Good,Niko The Kid/Benson,Tech House,..\data\audio_files\processed\347.mp3,0.703,0.93,8.0,-6.41,0.0589,0.000427,0.0951,0.14,0.597,124.993,4.0,"aussietronica, tech house, australian house"
+348,Fear,NITTI,Brostep,..\data\audio_files\processed\348.mp3,0.793,0.925,10.0,-3.928,0.0449,0.00164,0.558,0.037,0.423,128.017,4.0,"electronic trap, brostep, electro house"
+349,Sex Drive,NITTI/Hadar Adora,Brostep,..\data\audio_files\processed\349.mp3,0.738,0.8,5.0,-3.971,0.049,0.113,0.00144,0.118,0.609,125.937,4.0,"electronic trap, brostep, electro house"
+350,Dance,Noizu,Bass House,..\data\audio_files\processed\350.mp3,0.816,0.854,11.0,-5.523,0.051,0.000442,0.653,0.0608,0.3,124.026,4.0,"house, tech house, bass house"
+351,For Your Soul,Noizu,Bass House,..\data\audio_files\processed\351.mp3,0.704,0.955,2.0,-7.418,0.0825,0.00216,0.728,0.595,0.607,126.011,4.0,"house, tech house, bass house"
+352,Jungle,Noizu,Bass House,..\data\audio_files\processed\352.mp3,0.801,0.764,9.0,-6.373,0.0509,0.00563,0.921,0.0887,0.656,124.03,4.0,"house, tech house, bass house"
+353,Lasers,Noizu,Bass House,..\data\audio_files\processed\353.mp3,0.801,0.873,6.0,-5.812,0.0894,0.001,0.573,0.0639,0.79,123.978,4.0,"house, tech house, bass house"
+354,No More,Noizu,Bass House,..\data\audio_files\processed\354.mp3,0.785,0.96,6.0,-6.132,0.0429,0.00197,0.873,0.346,0.863,125.027,4.0,"house, tech house, bass house"
+355,Vogue,Noizu,Bass House,..\data\audio_files\processed\355.mp3,0.745,0.932,6.0,-4.992,0.0507,0.111,0.0561,0.136,0.928,128.0,4.0,"house, tech house, bass house"
+356,Burnin',Noizu/Martin Ikin,Bass House,..\data\audio_files\processed\356.mp3,0.711,0.922,1.0,-4.342,0.0887,0.00363,0.033,0.334,0.432,128.035,4.0,"house, tech house, bass house"
+357,4 The People,Noizu/Tony Romera,Bass House,..\data\audio_files\processed\357.mp3,0.833,0.965,6.0,-5.215,0.0528,0.0687,0.135,0.0927,0.922,123.994,4.0,"house, electro house, tech house, bass house"
+358,Push To Start (feat. No/Me),Noizu/Westend/No/Me,Bass House,..\data\audio_files\processed\358.mp3,0.852,0.988,1.0,-6.007,0.0588,0.00951,0.302,0.0629,0.67,128.013,4.0,"house, tech house, bass house"
+359,Good Times,Nonô,,..\data\audio_files\processed\359.mp3,0.826,0.656,9.0,-6.144,0.0871,0.000799,0.0736,0.122,0.806,127.979,4.0,
+360,Come with Me - Radio Mix,Nora En Pure,Deep House,..\data\audio_files\processed\360.mp3,0.683,0.757,6.0,-6.546,0.0272,0.00388,0.712,0.254,0.277,119.973,4.0,"electra, melodic house, house, swiss pop, deep house, progressive house"
+361,Light,Nu Aspect,Bassline,..\data\audio_files\processed\361.mp3,0.656,0.776,11.0,-9.445,0.0351,0.00408,0.778,0.346,0.338,125.975,4.0,bassline
+362,Make You Mine,NVOY,Deep Groove House,..\data\audio_files\processed\362.mp3,0.791,0.7,0.0,-5.876,0.0425,0.000822,0.648,0.325,0.424,120.014,4.0,"house, deep groove house"
+363,You Are,NVOY,Deep Groove House,..\data\audio_files\processed\363.mp3,0.802,0.759,4.0,-8.279,0.0956,0.101,0.55,0.0584,0.379,121.031,4.0,"house, deep groove house"
+364,Give You,Odd Mob,Aussietronica,..\data\audio_files\processed\364.mp3,0.692,0.983,2.0,-4.604,0.0338,0.000389,0.949,0.0986,0.201,130.013,4.0,"aussietronica, tech house, bass house"
+365,Blisters on My Feet,Odd Mob/Basura Boyz,Aussietronica,..\data\audio_files\processed\365.mp3,0.615,0.924,9.0,-3.859,0.0588,0.00272,0.116,0.125,0.355,140.007,4.0,"aussietronica, tech house, bass house"
+366,Losing Control,Odd Mob/OMNOM,Aussietronica,..\data\audio_files\processed\366.mp3,0.711,0.748,0.0,-6.524,0.0521,0.0493,0.765,0.316,0.254,134.014,4.0,"aussietronica, tech house, bass house"
+367,"Mind Awake, Body Asleep",Odd Mob/OMNOM/HYPERBEAM,Aussietronica,..\data\audio_files\processed\367.mp3,0.741,0.849,1.0,-7.755,0.0874,0.251,0.625,0.163,0.265,133.938,4.0,"aussietronica, tech house, bass house"
+368,Into You - Radio Edit,Odd Mob/Starley,Aussietronica,..\data\audio_files\processed\368.mp3,0.872,0.809,8.0,-3.214,0.145,0.0159,3.99e-06,0.126,0.709,124.955,4.0,"aussietronica, tech house, bass house"
+369,Lady Love,Oden & Fatzo/Camden Cox,,..\data\audio_files\processed\369.mp3,0.791,0.734,6.0,-8.636,0.0725,0.0359,0.0198,0.112,0.943,125.966,4.0,stutter house
+370,Falls - Golden Features Remix,ODESZA/Sasha Alex Sloan/Golden Features,Chillwave,..\data\audio_files\processed\370.mp3,0.797,0.78,10.0,-8.943,0.184,0.478,0.896,0.379,0.207,123.997,4.0,"alt z, edm, industrial pop, indietronica, chillwave"
+371,Bucovina 2023,Oliver Heldens/Shantel,Dutch House,..\data\audio_files\processed\371.mp3,0.809,0.882,9.0,-5.618,0.0534,0.00866,0.836,0.365,0.451,124.965,4.0,"dutch house, balkan brass, future house, edm, pop dance, house, gypsy fusion, balkan beats, progressive electro house, electro house, progressive house"
+372,Okami,Oski/Allen Mock/Herbalistek,Brostep,..\data\audio_files\processed\372.mp3,0.689,0.875,11.0,-3.219,0.0454,0.000395,0.23,0.704,0.292,130.04,4.0,"japanese edm, dubstep, electronic trap, brostep"
+373,Breeze,Paccu,,..\data\audio_files\processed\373.mp3,0.792,0.587,4.0,-10.577,0.0579,0.00635,0.0203,0.0826,0.4,125.008,4.0,
+374,Your Heart,Paccu,,..\data\audio_files\processed\374.mp3,0.729,0.652,11.0,-9.312,0.0443,0.00806,0.871,0.112,0.572,126.027,4.0,
+375,U Ok?,PARISI/Steve Angello/Sebastian Ingrosso,,..\data\audio_files\processed\375.mp3,0.833,0.848,2.0,-6.104,0.268,0.0193,0.299,0.11,0.249,130.047,4.0,"dutch house, edm, pop dance, house, progressive electro house, electro house, progressive house"
+376,MDR,Party Favor/Baauer,Brostep,..\data\audio_files\processed\376.mp3,0.651,0.93,4.0,-3.961,0.248,0.00244,0.393,0.497,0.0996,169.961,4.0,"electro house, electronic trap, brostep, edm"
+377,Canutito,Paskman,Latin Tech House,..\data\audio_files\processed\377.mp3,0.801,0.574,0.0,-6.099,0.101,0.00793,0.949,0.169,0.419,128.011,4.0,latin tech house
+378,Roller Coaster,Paskman,Latin Tech House,..\data\audio_files\processed\378.mp3,0.782,0.951,1.0,-8.161,0.0552,0.0817,0.00409,0.105,0.553,125.904,4.0,latin tech house
+379,Make Me Happy (feat. Might Delete Later),Patrick Topping/Might Delete Later,House,..\data\audio_files\processed\379.mp3,0.601,0.952,6.0,-5.203,0.0478,0.00808,0.805,0.109,0.897,132.006,4.0,"house, chill house"
+380,Whisper (feat. Raphi),Patrick Topping/Raphi,House,..\data\audio_files\processed\380.mp3,0.592,0.987,9.0,-5.318,0.0463,0.00191,0.464,0.194,0.965,136.021,4.0,house
+381,In My Head (feat. Shayan),Paul Woolford/LF SYSTEM/Shayan,House,..\data\audio_files\processed\381.mp3,0.649,0.962,7.0,-7.522,0.0465,0.0182,0.0111,0.149,0.686,128.013,4.0,"uk house, uk dance, house"
+382,Hendrix Flow,PAWSA,,..\data\audio_files\processed\382.mp3,0.923,0.583,0.0,-8.553,0.245,0.012,0.00213,0.104,0.806,131.029,4.0,
+383,matingcall.exe,Pedestrian Tactics,,..\data\audio_files\processed\383.mp3,0.821,0.844,10.0,-6.266,0.276,0.0168,6.43e-05,0.3,0.754,116.07,4.0,
+384,Nerds Trying To Dance,Pedestrian Tactics,,..\data\audio_files\processed\384.mp3,0.781,0.924,7.0,-4.97,0.09,0.000932,0.0136,0.157,0.394,105.026,4.0,
+385,(It Goes Like) Nanana - Edit,Peggy Gou,Electra,..\data\audio_files\processed\385.mp3,0.671,0.876,7.0,-5.681,0.0352,0.12,0.188,0.0823,0.964,129.998,4.0,"electra, float house"
+386,Breakfast,PEZNT/Born I,,..\data\audio_files\processed\386.mp3,0.852,0.932,9.0,-6.029,0.0562,0.00564,0.0136,0.0556,0.924,122.987,4.0,
+387,Keepmastik,Phlegmatic Dogs,Bass House,..\data\audio_files\processed\387.mp3,0.946,0.698,7.0,-4.762,0.136,0.0183,0.902,0.211,0.825,124.018,4.0,bass house
+388,What I Do,Piero Pirupa/Millean./Haylee Wood,Italian Tech House,..\data\audio_files\processed\388.mp3,0.728,0.932,1.0,-4.975,0.0883,0.00627,0.00349,0.191,0.379,126.007,4.0,"tech house, italian tech house"
+389,Stick-Up,Pimp Chic!,Brazilian Bass,..\data\audio_files\processed\389.mp3,0.819,0.856,10.0,-5.376,0.0486,0.0044,0.858,0.145,0.437,126.04,4.0,brazilian bass
+390,Arc-en-ciel,Polo & Pan,Dark Disco,..\data\audio_files\processed\390.mp3,0.777,0.588,7.0,-7.903,0.0354,0.0654,0.000276,0.091,0.451,115.985,4.0,"french indietronica, dark disco, electro-pop francais"
+391,Bakara,Polo & Pan,Dark Disco,..\data\audio_files\processed\391.mp3,0.825,0.524,8.0,-8.706,0.0522,0.106,0.00475,0.0765,0.537,115.003,4.0,"french indietronica, dark disco, electro-pop francais"
+392,Gengis,Polo & Pan,Dark Disco,..\data\audio_files\processed\392.mp3,0.682,0.582,5.0,-8.798,0.0439,0.391,0.856,0.0872,0.111,121.998,4.0,"french indietronica, dark disco, electro-pop francais"
+393,Get Your Wish - DJ NOT PORTER ROBINSON Remix,Porter Robinson,Complextro,..\data\audio_files\processed\393.mp3,0.351,0.855,1.0,-4.965,0.212,0.0194,0.0,0.182,0.495,127.949,4.0,"edm, complextro, pop dance, progressive electro house, electro house"
+394,Dummy – Chris Lake Remix,Portugal. The Man/Chris Lake,Indie Rock,..\data\audio_files\processed\394.mp3,0.789,0.867,6.0,-6.925,0.0539,0.000608,0.691,0.0733,0.699,127.016,4.0,"modern alternative rock, modern rock, bass house, indietronica, edm, melbourne bounce, house, pop dance, progressive house, electro house, tech house, indie rock"
+395,Magic Word,Proxy/AC Slater,Bass House,..\data\audio_files\processed\395.mp3,0.813,0.797,9.0,-5.838,0.0587,0.025,0.871,0.0758,0.647,127.999,4.0,"electro trash, bass house, russian electronic, electro house, brostep, fidget house"
+396,Drive,Prunk/Dennis Quin,Dutch Tech House,..\data\audio_files\processed\396.mp3,0.832,0.731,10.0,-6.808,0.0419,0.00785,0.813,0.116,0.538,125.999,4.0,"deep groove house, dutch tech house"
+397,Anything (For Your Love),Punctual,Pop Dance,..\data\audio_files\processed\397.mp3,0.684,0.833,11.0,-5.753,0.0473,0.0517,0.164,0.104,0.432,126.028,4.0,"pop dance, uk dance"
+398,Eva,Punctual,Pop Dance,..\data\audio_files\processed\398.mp3,0.638,0.822,6.0,-9.024,0.0348,0.0117,0.166,0.132,0.292,123.976,4.0,"pop dance, uk dance"
+399,Mela,Punctual,Pop Dance,..\data\audio_files\processed\399.mp3,0.805,0.675,1.0,-8.139,0.0368,0.0187,0.0639,0.221,0.791,120.063,4.0,"pop dance, uk dance"
+400,We Could Have It All,Punctual,Pop Dance,..\data\audio_files\processed\400.mp3,0.649,0.789,9.0,-5.097,0.037,0.0967,0.000155,0.315,0.245,125.002,4.0,"pop dance, uk dance"
+401,You Will See,Quarterhead/SESA,Tech House,..\data\audio_files\processed\401.mp3,0.872,0.572,6.0,-7.925,0.0561,0.00302,0.112,0.0862,0.237,124.995,4.0,tech house
+402,Champion,Rampa/Sparrow & Barbossa/Keinemusik,Deep Disco House,..\data\audio_files\processed\402.mp3,0.792,0.607,8.0,-7.292,0.0713,0.0129,0.717,0.0781,0.895,121.005,4.0,"afro house, melodic house, deep disco house"
+403,Don't Worry - Axwell Cut,Redfield/Axwell,,..\data\audio_files\processed\403.mp3,,,,,,,,,,,,
+404,Get Dirty,Return Of The Jaded/Tommie Sunshine,Canadian Electronic,..\data\audio_files\processed\404.mp3,0.649,0.959,10.0,-4.342,0.0621,0.0122,0.184,0.319,0.859,125.95,4.0,"canadian electronic, tech house, electro house"
+405,Fourth Impact,Rezz/k?d,Brostep,..\data\audio_files\processed\405.mp3,0.612,0.525,7.0,-7.556,0.042,0.0998,0.453,0.0756,0.362,219.883,4.0,"electra, edm, vapor twitch, electro house, future bass, canadian electronic, brostep"
+406,Teleportal,Rezz/Kotek,Brostep,..\data\audio_files\processed\406.mp3,0.786,0.727,2.0,-2.623,0.0459,0.0103,0.824,0.343,0.261,99.985,1.0,"electra, edm, electro house, canadian electronic, brostep"
+407,Criminals,Rezz/Malaa,Brostep,..\data\audio_files\processed\407.mp3,0.72,0.559,2.0,-4.402,0.0381,0.00765,0.746,0.0891,0.128,104.994,4.0,"electra, electronic trap, edm, bass house, house, electro house, canadian electronic, brostep"
+408,Needle On The Record,Riordan,Tech House,..\data\audio_files\processed\408.mp3,0.792,0.919,6.0,-9.028,0.0819,0.137,0.151,0.274,0.711,128.968,4.0,tech house
+409,Fake ID (Coke & Rum Remix),Riton/Kah-Lo/GEE LEE,House,..\data\audio_files\processed\409.mp3,0.859,0.483,9.0,-13.12,0.0921,0.011,0.00481,0.316,0.544,124.931,4.0,"pop dance, house, uk dance, nigerian pop"
+410,2Gether (Eden Prince Remix),Roger Sanchez/Eden Prince,Disco House,..\data\audio_files\processed\410.mp3,0.645,0.953,8.0,-6.211,0.0343,0.0347,0.881,0.0969,0.409,123.988,4.0,"disco house, dance pop, diva house, uk dance, deep groove house, tribal house"
+411,Again - Edit,Roger Sanchez,Disco House,..\data\audio_files\processed\411.mp3,0.912,0.728,2.0,-5.547,0.147,0.00188,2.65e-06,0.137,0.743,126.061,4.0,"disco house, diva house, tribal house"
+412,Beam,Rome in Silver,Future Bass,..\data\audio_files\processed\412.mp3,0.644,0.864,2.0,-4.488,0.0722,0.665,0.754,0.109,0.188,125.935,4.0,"future bass, vapor twitch"
+413,Fool,Rome in Silver,Future Bass,..\data\audio_files\processed\413.mp3,0.752,0.752,7.0,-5.077,0.0383,0.309,0.719,0.0964,0.213,100.028,4.0,"future bass, vapor twitch"
+414,You Don't Know (what it's like),Rome in Silver,Future Bass,..\data\audio_files\processed\414.mp3,0.593,0.769,10.0,-6.213,0.221,0.086,0.277,0.0673,0.331,121.972,4.0,"future bass, vapor twitch"
+415,Friends,Rome in Silver/chae,Future Bass,..\data\audio_files\processed\415.mp3,0.784,0.644,7.0,-5.336,0.144,0.236,0.0,0.0915,0.461,104.937,4.0,"future bass, vapor twitch"
+416,what we had was real,Rommii,Stutter House,..\data\audio_files\processed\416.mp3,0.755,0.764,10.0,-7.423,0.0967,0.132,0.0102,0.154,0.363,127.041,4.0,stutter house
+417,The Sea,Romy,,..\data\audio_files\processed\417.mp3,0.669,0.84,4.0,-6.466,0.0409,0.00677,0.337,0.48,0.777,119.011,4.0,
+418,Echo,RSCL/Repiet/Julia Kleijn,Stutter House,..\data\audio_files\processed\418.mp3,0.702,0.878,1.0,-6.734,0.0394,0.242,0.695,0.0988,0.111,124.996,3.0,"stutter house, future bounce"
+419,Scared of Love (feat. RAY BLK & Stefflon Don) - Preditah Remix,Rudimental/RAY BLK/Stefflon Don/Preditah,Pop Dance,..\data\audio_files\processed\419.mp3,0.809,0.592,9.0,-8.245,0.344,0.123,8.67e-06,0.164,0.638,124.015,4.0,"dancehall queen, electra, birmingham grime, bass house, old school bassline, uk garage, pop dance, uk dancehall, alternative r&b, uk dance, uk funky, grime, uk hip hop, uk contemporary r&b, dancehall, instrumental grime"
+420,Gas Pedal - Kyle Watson Remix,Sage The Gemini/Kyle Watson/Iamsu!,Hyphy,..\data\audio_files\processed\420.mp3,0.738,0.795,6.0,-7.83,0.0683,0.0172,0.00605,0.0834,0.455,126.997,4.0,"hyphy, trap, bass house, cali rap, house, southern hip hop, tech house, pop rap, fidget house"
+421,Howl,Saint Punk,Dark Clubbing,..\data\audio_files\processed\421.mp3,0.83,0.866,2.0,-3.591,0.0431,0.00441,0.824,0.0861,0.194,126.018,4.0,"game mood, dark clubbing"
+422,MAD,Saint Punk,Dark Clubbing,..\data\audio_files\processed\422.mp3,0.783,0.995,11.0,-2.531,0.172,0.0299,0.837,0.138,0.498,125.963,4.0,"game mood, dark clubbing"
+423,Menace,Saint Punk,Dark Clubbing,..\data\audio_files\processed\423.mp3,0.815,0.943,9.0,-1.724,0.098,0.0256,0.0112,0.292,0.472,124.98,4.0,"game mood, dark clubbing"
+424,911,Saint Punk/J,Dark Clubbing,..\data\audio_files\processed\424.mp3,0.746,0.974,8.0,-2.416,0.149,0.00534,0.00592,0.309,0.402,125.032,4.0,"game mood, dark clubbing"
+425,Peach,salute/Sammy Virji,Ukg Revival,..\data\audio_files\processed\425.mp3,0.866,0.668,1.0,-7.472,0.0969,0.0115,0.889,0.238,0.657,135.009,4.0,"ukg revival, old school bassline, bass house"
+426,Freak,San Pacho/No Thanks,Tech House,..\data\audio_files\processed\426.mp3,0.678,0.936,1.0,-5.355,0.0541,0.00285,0.49,0.14,0.324,126.015,4.0,tech house
+427,In Your Mind,San Pacho/Notelle,Tech House,..\data\audio_files\processed\427.mp3,0.737,0.945,10.0,-3.394,0.046,0.0165,0.65,0.0911,0.542,127.998,4.0,"tech house, dark pop"
+428,Some People Say - Radio Edit,Semedo/Curtis Gabriel,Deep Groove House,..\data\audio_files\processed\428.mp3,0.873,0.797,0.0,-5.488,0.085,0.00829,0.00108,0.398,0.557,120.013,4.0,deep groove house
+429,Hijos De La Noche,Shermanology,Dutch House,..\data\audio_files\processed\429.mp3,0.936,0.693,6.0,-7.726,0.135,0.00151,0.728,0.19,0.523,129.933,4.0,dutch house
+430,Sometimes,Shermanology,Dutch House,..\data\audio_files\processed\430.mp3,0.763,0.684,11.0,-6.776,0.136,0.0756,0.000182,0.19,0.745,129.063,4.0,dutch house
+431,Motown Philly,Shermanology/Boyz II Men,Dutch House,..\data\audio_files\processed\431.mp3,0.758,0.842,9.0,-7.622,0.0444,0.000191,0.553,0.181,0.661,128.996,4.0,"dutch house, urban contemporary, contemporary r&b, boy band, new jack swing, r&b"
+432,Are You Feeling This?,Shiba San,Bass House,..\data\audio_files\processed\432.mp3,0.877,0.759,5.0,-4.688,0.0614,0.00215,0.211,0.0831,0.186,127.002,4.0,"house, french tech house, tech house, bass house"
+433,My House,Shiba San/Rave Rae,Bass House,..\data\audio_files\processed\433.mp3,0.801,0.84,6.0,-7.24,0.0519,0.00138,0.776,0.105,0.472,127.995,4.0,"house, french tech house, tech house, bass house"
+434,It's My House (with Dillon Francis),Ship Wrek/Dillon Francis,Stutter House,..\data\audio_files\processed\434.mp3,,,,,,,,,,,,
+435,Need It,Ship Wrek,Stutter House,..\data\audio_files\processed\435.mp3,0.8,0.862,5.0,-4.373,0.068,0.000286,0.843,0.0516,0.405,125.97,4.0,stutter house
+436,Silent,Ship Wrek,Stutter House,..\data\audio_files\processed\436.mp3,0.79,0.84,2.0,-4.637,0.0609,0.0025,0.422,0.0783,0.627,126.001,4.0,stutter house
+437,The Function,Ship Wrek,Stutter House,..\data\audio_files\processed\437.mp3,0.775,0.96,1.0,-7.282,0.0618,0.00462,0.648,0.103,0.589,127.028,4.0,stutter house
+438,Misbehave,Ship Wrek/Disco Lines,Stutter House,..\data\audio_files\processed\438.mp3,0.734,0.858,10.0,-5.42,0.0428,0.321,0.0109,0.0729,0.549,124.036,4.0,stutter house
+439,Feel The Need,SIDEPIECE,Edm,..\data\audio_files\processed\439.mp3,0.703,0.982,6.0,-4.63,0.0571,0.0169,0.218,0.0776,0.461,128.018,4.0,"house, tech house, edm"
+440,What You Need,SIDEPIECE,Edm,..\data\audio_files\processed\440.mp3,0.765,0.92,10.0,-5.51,0.0486,0.00107,0.589,0.0329,0.0843,127.012,4.0,"house, tech house, edm"
+441,Nobody To Love,Sigma,Dancefloor Dnb,..\data\audio_files\processed\441.mp3,0.516,0.908,8.0,-3.312,0.0372,0.000502,1.62e-05,0.198,0.23,87.508,4.0,"dancefloor dnb, pop dance, uk dance"
+442,Can't Play Myself (A Tribute To Amy),Skepta/Amy Winehouse,Birmingham Grime,..\data\audio_files\processed\442.mp3,0.804,0.705,9.0,-7.289,0.0354,0.00429,0.0343,0.11,0.209,126.986,4.0,"birmingham grime, neo soul, british soul, grime, uk hip hop, instrumental grime"
+443,Time,Skepta/Jammer/Deki Alem/A$AP NAST,Birmingham Grime,..\data\audio_files\processed\443.mp3,0.832,0.587,7.0,-8.566,0.112,0.0179,0.781,0.0553,0.374,119.996,4.0,"birmingham grime, harlem hip hop, grime, uk hip hop, instrumental grime"
+444,Smoke In Your Eyes,Skepta/Ossie/Harry Stone,Birmingham Grime,..\data\audio_files\processed\444.mp3,0.791,0.738,1.0,-9.792,0.0426,0.00139,0.821,0.0861,0.412,128.003,4.0,"instrumental grime, grime, birmingham grime, uk hip hop"
+445,Fine Day Anthem,Skrillex/Boys Noize/Opus III,Brostep,..\data\audio_files\processed\445.mp3,0.745,0.85,6.0,-3.903,0.075,0.000285,0.0392,0.118,0.54,138.03,4.0,"alternative dance, filter house, edm, new rave, complextro, pop dance, hip house, dream trance, german dance, ambient house, electro, dance-punk, electro house, german techno, hardcore techno, brostep, fidget house"
+446,Rumble,Skrillex/Fred again../Flowdan,Brostep,..\data\audio_files\processed\446.mp3,0.81,0.836,1.0,-7.721,0.0645,0.0515,0.229,0.0598,0.0585,139.979,4.0,"edm, complextro, pop dance, house, stutter house, electro, grime, brostep"
+447,Bringing Me Home - OMNOM Remix,Snakehips/OMNOM/LAUREL,Electropop,..\data\audio_files\processed\447.mp3,0.63,0.578,9.0,-15.047,0.243,0.0109,0.252,0.115,0.1,132.948,4.0,"vapor pop, bass house, electropop, uk dance, tech house"
+448,Don't Leave - Throttle Remix,Snakehips/MØ/Throttle,Electropop,..\data\audio_files\processed\448.mp3,0.71,0.838,8.0,-3.067,0.11,0.013,0.000417,0.297,0.394,122.993,4.0,"dance pop, pop dance, danish pop, electropop, uk dance"
+449,Jacaré,Sofi Tukker,Edm,..\data\audio_files\processed\449.mp3,0.694,0.84,7.0,-5.18,0.0364,0.00375,0.0163,0.116,0.711,125.063,4.0,edm
+450,Rhythm (Of The Night),Something Good/Yotto,Progressive Trance House,..\data\audio_files\processed\450.mp3,0.534,0.946,10.0,-6.632,0.0383,0.000404,0.698,0.348,0.173,121.951,4.0,"melodic house, finnish edm, progressive house, progressive trance house"
+451,Levitate,Sonny Fodera/Marten Hørger,House,..\data\audio_files\processed\451.mp3,0.636,0.989,1.0,-5.303,0.0521,0.0198,0.742,0.0762,0.533,127.992,4.0,"bass house, pop dance, house, uk dance, tech house"
+452,Asking,Sonny Fodera/MK/Clementine Douglas,House,..\data\audio_files\processed\452.mp3,0.477,0.854,4.0,-5.274,0.0896,0.0213,1.67e-05,0.19,0.395,126.965,4.0,"pop dance, house, uk dance"
+453,Big Ting Vibe,SQWAD,Bass House,..\data\audio_files\processed\453.mp3,0.858,0.943,1.0,-4.358,0.0663,0.000759,0.389,0.11,0.716,125.988,4.0,"tech house, bass house, bassline"
+454,Everybody,SQWAD,Bass House,..\data\audio_files\processed\454.mp3,0.805,0.916,1.0,-7.161,0.148,0.00085,0.863,0.0498,0.0497,127.001,4.0,"tech house, bass house, bassline"
+455,Move,SQWAD/Badjokes/Habstrakt,Bass House,..\data\audio_files\processed\455.mp3,0.859,0.869,7.0,-6.486,0.0651,0.00078,0.361,0.0668,0.853,125.028,4.0,"electronic trap, dubstep, bass house, complextro, gaming dubstep, filthstep, bassline, tech house, electro house"
+456,Valodja (Kryder Remix),Steve Angello/AN21/Kryder,Dutch House,..\data\audio_files\processed\456.mp3,0.825,0.91,8.0,-4.535,0.203,0.371,0.102,0.522,0.19,127.992,4.0,"dutch house, edm, pop dance, house, progressive electro house, electro house, progressive house"
+457,Bloom,sumthin sumthin,Future Bass,..\data\audio_files\processed\457.mp3,0.628,0.9,5.0,-4.353,0.427,0.211,0.0118,0.114,0.223,145.08,4.0,"future bass, vapor twitch"
+458,Cut That,sumthin sumthin,Future Bass,..\data\audio_files\processed\458.mp3,0.842,0.561,9.0,-5.612,0.346,0.0695,0.00727,0.054,0.489,113.184,5.0,"future bass, vapor twitch"
+459,Ghost,sumthin sumthin,Future Bass,..\data\audio_files\processed\459.mp3,0.695,0.566,8.0,-5.931,0.0597,0.012,0.0111,0.0809,0.105,140.078,4.0,"future bass, vapor twitch"
+460,Gryme,sumthin sumthin,Future Bass,..\data\audio_files\processed\460.mp3,0.756,0.498,0.0,-7.212,0.211,0.014,0.923,0.108,0.387,160.051,4.0,"future bass, vapor twitch"
+461,Vivid,sumthin sumthin,Future Bass,..\data\audio_files\processed\461.mp3,0.833,0.364,1.0,-7.515,0.14,0.0403,0.567,0.313,0.0938,106.778,4.0,"future bass, vapor twitch"
+462,Salt,sumthin sumthin/CloZee,Future Bass,..\data\audio_files\processed\462.mp3,0.646,0.693,11.0,-7.505,0.0651,0.0213,0.506,0.126,0.321,130.063,4.0,"electra, downtempo bass, vapor twitch, glitch hop, future bass"
+463,Damage,sumthin sumthin/Saka,Future Bass,..\data\audio_files\processed\463.mp3,0.557,0.511,10.0,-4.908,0.0692,0.00275,0.147,0.252,0.184,172.071,4.0,"halftime dnb, future bass, vapor twitch"
+464,Dance No More (with Kaleena Zanders),Sunday Scaries/Kaleena Zanders,,..\data\audio_files\processed\464.mp3,0.809,0.903,10.0,-5.122,0.166,0.0194,0.832,0.115,0.796,127.015,4.0,
+465,Feel Like Makin' Love (feat. Roberta Flack),Supershy/Roberta Flack,,..\data\audio_files\processed\465.mp3,0.664,0.696,2.0,-6.038,0.0486,0.0162,0.553,0.109,0.49,126.064,4.0,"quiet storm, adult standards, soft rock, disco, vocal jazz, classic soul, soul"
+466,Through Glass,Taiki Nulight,Bass House,..\data\audio_files\processed\466.mp3,0.89,0.477,2.0,-5.876,0.056,0.0122,0.746,0.0812,0.531,125.987,4.0,"doujin, bass house"
+467,Soundwave,Taiki Nulight/Dread MC,Bass House,..\data\audio_files\processed\467.mp3,0.827,0.773,2.0,-7.055,0.0513,0.000627,0.458,0.0587,0.345,128.0,4.0,"doujin, bass house, bassline"
+468,Dr Sbaitso,Taiki Nulight/LO'99,Bass House,..\data\audio_files\processed\468.mp3,0.89,0.885,11.0,-4.44,0.0751,0.00655,0.195,0.292,0.537,125.023,4.0,"deep groove house, doujin, australian house, bass house"
+469,Cruel Summer - LP Giobbi Remix,Taylor Swift/LP Giobbi,Pop,..\data\audio_files\processed\469.mp3,0.731,0.722,9.0,-9.098,0.0691,0.0893,0.00256,0.112,0.265,122.99,4.0,"house, pop"
+470,Adieu (Chace Remix),Tchami/Chace,Deep Groove House,..\data\audio_files\processed\470.mp3,0.822,0.771,5.0,-4.884,0.168,0.00187,0.0738,0.295,0.312,126.004,4.0,"chinese electronic, future house, edm, pop dance, house, deep groove house, progressive house, electro house"
+471,Don't Let Me Down (feat. Kaelyn Behr),Tchami/Kaelyn Behr,Deep Groove House,..\data\audio_files\processed\471.mp3,,,,,,,,,,,,
+472,Godspell (feat. Taiki Nulight),Tchami/Taiki Nulight,Deep Groove House,..\data\audio_files\processed\472.mp3,,,,,,,,,,,,
+473,Omega (feat. Ibranovski),Tchami/Ibranovski,Deep Groove House,..\data\audio_files\processed\473.mp3,,,,,,,,,,,,
+474,Rainforest,Tchami,Deep Groove House,..\data\audio_files\processed\474.mp3,0.747,0.898,8.0,-5.206,0.221,0.0302,0.0321,0.0897,0.479,126.049,4.0,"future house, edm, pop dance, house, deep groove house, progressive house, electro house"
+475,Shades (feat. Donnie Sloan & Ricky Ducati),Tchami/Donnie Sloan/Ricky Ducati,Deep Groove House,..\data\audio_files\processed\475.mp3,,,,,,,,,,,,
+476,SIAW,Tchami,Deep Groove House,..\data\audio_files\processed\476.mp3,0.805,0.84,1.0,-4.527,0.102,0.00172,0.52,0.0751,0.411,126.019,4.0,"future house, edm, pop dance, house, deep groove house, progressive house, electro house"
+477,World To Me (feat. Luke James),Tchami/Luke James,Deep Groove House,..\data\audio_files\processed\477.mp3,,,,,,,,,,,,
+478,Zeal,Tchami,Deep Groove House,..\data\audio_files\processed\478.mp3,0.729,0.846,4.0,-5.496,0.0364,0.0275,0.568,0.105,0.126,116.995,4.0,"future house, edm, pop dance, house, deep groove house, progressive house, electro house"
+479,My Place (feat. Reece),Tchami/BROHUG/Reece,Deep Groove House,..\data\audio_files\processed\479.mp3,,,,,,,,,,,,
+480,Prophecy (Kyle Watson Remix),Tchami/Malaa/Kyle Watson,Deep Groove House,..\data\audio_files\processed\480.mp3,0.917,0.633,11.0,-9.622,0.155,0.00994,0.875,0.35,0.807,124.007,4.0,"electronic trap, future house, edm, bass house, pop dance, house, deep groove house, progressive house, electro house, tech house, brostep, fidget house"
+481,Prophecy,Tchami/Malaa,Deep Groove House,..\data\audio_files\processed\481.mp3,0.765,0.824,2.0,-1.957,0.0487,0.0052,0.775,0.0627,0.235,125.006,4.0,"electronic trap, future house, edm, bass house, pop dance, house, deep groove house, progressive house, electro house, brostep"
+482,Summer 99,Tchami/Malaa,Deep Groove House,..\data\audio_files\processed\482.mp3,0.81,0.968,2.0,-3.984,0.103,0.000145,0.515,0.0542,0.559,125.992,4.0,"electronic trap, future house, edm, bass house, pop dance, house, deep groove house, progressive house, electro house, brostep"
+483,Aisha,TECH IT DEEP,,..\data\audio_files\processed\483.mp3,0.798,0.768,2.0,-5.391,0.0457,0.0122,0.033,0.0652,0.453,127.984,4.0,
+484,Maria Maria,TECH IT DEEP,,..\data\audio_files\processed\484.mp3,0.747,0.657,0.0,-7.652,0.0912,0.0967,0.00497,0.278,0.397,128.037,4.0,
+485,Mercy (feat. Jacob Lusk),The Blessed Madonna/Jacob Lusk/Gabriels,Edm,..\data\audio_files\processed\485.mp3,0.815,0.645,2.0,-6.046,0.0938,0.00589,2.96e-05,0.709,0.652,126.994,4.0,"edm, idol"
+486,Carry Me Higher - 7 Inch Version,The Blessed Madonna/Joy Anonymous/Danielle Ponder,Edm,..\data\audio_files\processed\486.mp3,0.85,0.537,6.0,-7.84,0.0519,0.00347,0.0839,0.111,0.295,126.968,4.0,edm
+487,Denim,The Floozies/Gibbz/MZG,Glitch Hop,..\data\audio_files\processed\487.mp3,0.684,0.894,2.0,-4.101,0.105,0.00479,0.0473,0.0771,0.584,163.978,4.0,"indie poptimism, glitch hop, lawrence ks indie, jam band"
+488,Warn Ya - Cazztek Remix,The Funk Hunters/Defunk/Cazztek/Akylla,Canadian Electronic,..\data\audio_files\processed\488.mp3,0.679,0.931,2.0,-3.424,0.0578,0.000235,0.387,0.0521,0.349,124.009,4.0,"glitch hop, electro house, canadian electronic, bass house"
+489,Love On You (feat. Griff Clawson),The Magician/A-Trak/Griff Clawson,Belgian Edm,..\data\audio_files\processed\489.mp3,0.765,0.672,11.0,-8.114,0.0377,0.00948,0.348,0.343,0.342,126.02,4.0,"electronic trap, turntablism, edm, nu disco, belgian edm, house, electro house, canadian electronic, fidget house"
+490,Sinister - Axwell Mi Amor Remode,Thomas Newson/Corey James/Axwell,Dutch House,..\data\audio_files\processed\490.mp3,0.701,0.887,10.0,-5.37,0.0407,0.00163,0.234,0.063,0.517,127.023,4.0,"dutch house, edm, pop dance, sky room, progressive electro house, electro house, progressive house"
+491,All In,Throttle,,..\data\audio_files\processed\491.mp3,0.738,0.713,5.0,-4.727,0.108,0.13,0.0,0.298,0.39,124.992,4.0,
+492,I Can't Take No More,Tita Lau,,..\data\audio_files\processed\492.mp3,0.761,0.787,4.0,-5.839,0.0618,0.00931,0.000832,0.0482,0.472,132.01,4.0,
+493,One Of A Kind,Tita Lau,,..\data\audio_files\processed\493.mp3,0.804,0.962,0.0,-6.81,0.0487,0.00224,0.886,0.0777,0.432,125.011,4.0,
+494,Perfect Love - Biscits Remix,Todd Edwards/Biscits,Garage House,..\data\audio_files\processed\494.mp3,0.784,0.863,6.0,-5.966,0.0391,0.0163,0.826,0.786,0.261,128.008,4.0,"uk tech house, uk garage, bass house, house, uk dance, tech house, garage house"
+495,Ando High,Tom & Collins/AMÉMÉ,Mexican Edm,..\data\audio_files\processed\495.mp3,0.686,0.875,10.0,-5.104,0.0396,0.000481,0.54,0.0591,0.794,126.024,4.0,"afro house, mexican edm"
+496,Pa Lante,Tom & Collins/Mr. Pig/Minow/Gabsy,Mexican Edm,..\data\audio_files\processed\496.mp3,0.8,0.899,4.0,-6.666,0.0631,0.00113,0.923,0.138,0.485,127.01,4.0,"mexican edm, tech house"
+497,Serena - Sllash & Doppe Remix,Tom & Collins/Thomas Newson/PAVE/Sllash & Doppe,Mexican Edm,..\data\audio_files\processed\497.mp3,0.758,0.963,1.0,-5.812,0.0612,0.00015,0.783,0.101,0.32,126.0,4.0,"dutch house, deep tech house, mexican edm, sky room, funky tech house, progressive electro house, electro house"
+498,Shake That,Tom Budin,Deep Groove House,..\data\audio_files\processed\498.mp3,0.8,0.672,11.0,-10.88,0.0434,0.00163,0.765,0.0703,0.912,126.009,4.0,"deep groove house, tech house, slap house"
+499,Supersonic,Tom Budin/Dave Winnel,Deep Groove House,..\data\audio_files\processed\499.mp3,0.758,0.772,0.0,-7.807,0.0504,0.00747,0.754,0.159,0.33,126.005,4.0,"deep groove house, tech house, slap house"
+500,Pégate,Tom Enzy,Slap House,..\data\audio_files\processed\500.mp3,0.737,0.598,11.0,-6.837,0.107,0.000728,0.894,0.0981,0.205,124.063,4.0,slap house
+501,Rainfall (Praise You),Tom Santa,Stutter House,..\data\audio_files\processed\501.mp3,0.767,0.862,5.0,-5.464,0.0606,0.14,0.0092,0.252,0.509,128.039,4.0,stutter house
+502,Boiling Room,Tony Romera,Bass House,..\data\audio_files\processed\502.mp3,0.837,0.951,9.0,-5.758,0.107,0.0425,0.277,0.137,0.781,128.019,4.0,"electro house, bass house"
+503,Candy - Karma Fields Dub,Torren Foot/Karma Fields,Australian House,..\data\audio_files\processed\503.mp3,0.802,0.741,6.0,-11.289,0.0525,0.00193,0.828,0.0876,0.422,127.997,4.0,"complextro, gaming edm, canadian electronic, australian house"
+504,Candy,Torren Foot,Australian House,..\data\audio_files\processed\504.mp3,0.663,0.961,11.0,-6.454,0.0635,0.00389,0.114,0.268,0.641,126.009,4.0,australian house
+505,Enjoy It Now,Tortured Soul,Deep House,..\data\audio_files\processed\505.mp3,0.888,0.516,2.0,-8.763,0.0462,0.0022,0.0228,0.0836,0.61,116.476,4.0,deep house
+506,Special Lady,Tortured Soul,Deep House,..\data\audio_files\processed\506.mp3,0.822,0.689,4.0,-8.338,0.0363,0.0175,0.0,0.349,0.862,119.99,4.0,deep house
+507,Back To The Wall,TroyBoi,Bass Trap,..\data\audio_files\processed\507.mp3,0.772,0.705,3.0,-4.576,0.0852,0.18,0.273,0.133,0.593,140.051,4.0,"bass trap, electronic trap"
+508,Grimey,TroyBoi,Bass Trap,..\data\audio_files\processed\508.mp3,0.883,0.406,2.0,-6.07,0.301,0.0307,0.547,0.057,0.534,140.07,4.0,"bass trap, electronic trap"
+509,Sensei,TroyBoi,Bass Trap,..\data\audio_files\processed\509.mp3,0.77,0.607,11.0,-6.189,0.0422,0.000403,0.766,0.101,0.343,142.024,4.0,"bass trap, electronic trap"
+510,All Night,Truth x Lies,Tech House,..\data\audio_files\processed\510.mp3,0.758,0.904,9.0,-7.138,0.0588,0.029,0.769,0.178,0.79,127.996,4.0,tech house
+511,What I'm Sayin,Truth x Lies,Tech House,..\data\audio_files\processed\511.mp3,0.801,0.993,6.0,-7.152,0.202,0.0406,0.752,0.0871,0.0727,128.005,4.0,tech house
+512,Bleacher Creature,TVBOO/um..,Experimental Bass,..\data\audio_files\processed\512.mp3,0.792,0.764,1.0,-4.78,0.358,0.00224,0.0673,0.111,0.377,150.107,4.0,experimental bass
+513,Don't Copy Us,um..,Experimental Bass,..\data\audio_files\processed\513.mp3,,,,,,,,,,,,
+514,Pó De Anjo,VINNE,Brazilian Edm,..\data\audio_files\processed\514.mp3,0.659,0.874,8.0,-6.808,0.115,0.0604,0.794,0.512,0.19,125.987,4.0,brazilian edm
+515,"Tudo Bem, Tudo Bom - Radio Edit",Vintage Culture,Brazilian Edm,..\data\audio_files\processed\515.mp3,0.76,0.965,1.0,-8.676,0.0451,0.0155,0.805,0.061,0.549,127.987,4.0,brazilian edm
+516,Come Come,Vintage Culture/Tube & Berger/Kyle Pearce,Brazilian Edm,..\data\audio_files\processed\516.mp3,0.78,0.848,0.0,-7.146,0.0497,0.00524,0.362,0.0717,0.175,123.996,4.0,"german techno, dusseldorf electronic, brazilian edm, deep euro house"
+517,Ghost Voices,Virtual Self,Electro House,..\data\audio_files\processed\517.mp3,0.311,0.857,11.0,-8.332,0.0395,0.00133,0.804,0.307,0.36,119.968,4.0,"future bass, electro house"
+518,Key,Virtual Self,Electro House,..\data\audio_files\processed\518.mp3,0.526,0.968,1.0,-4.992,0.0517,0.00159,0.941,0.356,0.229,118.0,4.0,"future bass, electro house"
+519,Freddie's Warmup,Vlado,,..\data\audio_files\processed\519.mp3,,,,,,,,,,,,
+520,Funk Soul Brother - GENESI Edit,VLTRA (IT)/GENESI,Tech House,..\data\audio_files\processed\520.mp3,0.366,0.985,2.0,-4.28,0.0795,0.00508,0.655,0.327,0.32,127.952,4.0,tech house
+521,One Pill,VNSSA,Bass House,..\data\audio_files\processed\521.mp3,0.76,0.766,11.0,-7.167,0.0429,0.0281,0.619,0.128,0.469,130.022,4.0,"tech house, bass house"
+522,Bump,VOLAC,Bass House,..\data\audio_files\processed\522.mp3,0.807,0.947,7.0,-6.404,0.0513,0.00988,0.87,0.0791,0.193,126.013,4.0,"tech house, brazilian edm, bass house"
+523,In The Air,VOLAC,Bass House,..\data\audio_files\processed\523.mp3,0.792,0.733,7.0,-8.755,0.0482,0.000299,0.016,0.0974,0.357,126.995,4.0,"tech house, brazilian edm, bass house"
+524,Russian Style,VOLAC,Bass House,..\data\audio_files\processed\524.mp3,0.849,0.923,2.0,-5.676,0.0965,0.052,0.835,0.0569,0.527,125.999,4.0,"tech house, brazilian edm, bass house"
+525,Work It,VOLAC,Bass House,..\data\audio_files\processed\525.mp3,0.814,0.935,1.0,-6.128,0.055,0.00583,0.33,0.0537,0.546,126.036,4.0,"tech house, brazilian edm, bass house"
+526,Like Dis - Radio Edit,VOLAC/Gustavo Mota,Bass House,..\data\audio_files\processed\526.mp3,0.814,0.624,1.0,-5.172,0.0392,0.000365,0.896,0.059,0.55,126.009,4.0,"tech house, brazilian edm, bass house"
+527,Do My Thing,Wade,Tech House,..\data\audio_files\processed\527.mp3,0.786,0.906,1.0,-6.871,0.0626,0.0482,0.336,0.0541,0.476,128.015,4.0,tech house
+528,Give Me A Sign,Wahlstedt/TOOMANYLEFTHANDS,Pop Edm,..\data\audio_files\processed\528.mp3,0.719,0.883,11.0,-5.145,0.0965,0.00441,0.771,0.113,0.352,128.013,4.0,"danish electronic, scandipop, pop edm"
+529,Cheap Thrills,Walker & Royce/Barney Bones,Bass House,..\data\audio_files\processed\529.mp3,0.71,0.875,7.0,-7.642,0.0515,0.0469,0.032,0.135,0.579,131.078,4.0,"house, tech house, deep disco house, bass house"
+530,Stop Time,Walker & Royce/Glass Petals/Elohim,Bass House,..\data\audio_files\processed\530.mp3,0.681,0.866,1.0,-6.232,0.0327,0.0415,0.00289,0.32,0.103,127.952,4.0,"bass house, la pop, house, electropop, tech house, deep disco house, indie poptimism, canadian electronic"
+531,Let's Live It Up,Walker & Royce/Harm Franklin,Bass House,..\data\audio_files\processed\531.mp3,,,,,,,,,,,,
+532,Low Rider - Kyle Watson Remix,War/Kyle Watson,Classic Soul,..\data\audio_files\processed\532.mp3,0.853,0.924,0.0,-4.749,0.0437,0.0133,0.137,0.0701,0.89,129.025,4.0,"bass house, house, funk, fidget house, p funk, tech house, classic soul, soul, motown"
+533,Keep Raving,Wax Motif,Bass House,..\data\audio_files\processed\533.mp3,0.799,0.854,9.0,-4.882,0.095,0.0539,0.265,0.242,0.502,126.027,4.0,"electro house, tech house, bass house"
+534,Lo Que Soy,Wax Motif/Kura,Bass House,..\data\audio_files\processed\534.mp3,0.876,0.803,1.0,-5.092,0.054,0.213,0.398,0.0572,0.696,125.988,4.0,"big room, bass house, progressive electro house, electro house, tech house"
+535,Lose Control,Wax Motif/Matroda,Bass House,..\data\audio_files\processed\535.mp3,0.676,0.903,11.0,-3.872,0.055,0.00457,0.617,0.138,0.642,125.0,4.0,"electro house, tech house, bass house"
+536,La Samba,Wax Motif/Riordan,Bass House,..\data\audio_files\processed\536.mp3,0.777,0.951,8.0,-5.035,0.0844,0.0194,0.872,0.0643,0.627,130.047,4.0,"electro house, tech house, bass house"
+537,Red Runner,WAYNE SNOW,Indie Jazz,..\data\audio_files\processed\537.mp3,0.891,0.55,11.0,-10.418,0.101,0.142,0.239,0.112,0.697,124.999,4.0,"indie jazz, neo r&b, indie soul"
+538,Feel My Needs - Purple Disco Machine Remix,WEISS/Purple Disco Machine,House,..\data\audio_files\processed\538.mp3,0.707,0.896,3.0,-5.157,0.0538,0.0127,0.859,0.0182,0.903,122.011,4.0,"uk house, house, uk dance, deep house, tech house"
+539,You're Sunshine,WEISS,House,..\data\audio_files\processed\539.mp3,0.511,0.972,1.0,-2.583,0.0574,0.000287,0.0133,0.397,0.229,172.06,4.0,"jungle, uk house, jazzy dnb, house, drum and bass, sambass, uk dance, liquid funk, tech house, brazilian dnb"
+540,Dive In (feat. Notelle),Westend/Notelle,Bass House,..\data\audio_files\processed\540.mp3,0.805,0.807,8.0,-4.372,0.072,0.0062,0.619,0.0941,0.829,127.037,4.0,"tech house, bass house, dark pop"
+541,Be Ok Again,What So Not/Daniel Johns,Aussietronica,..\data\audio_files\processed\541.mp3,0.474,0.694,0.0,-5.654,0.0468,0.0193,0.000412,0.0884,0.336,155.048,4.0,"electronic trap, edm, escape room, aussietronica, vapor twitch, electro house, brostep"
+542,Warlord,What So Not/SLUMBERJACK,Aussietronica,..\data\audio_files\processed\542.mp3,0.445,0.637,4.0,-5.672,0.0342,0.00152,0.0103,0.129,0.0863,89.847,4.0,"electronic trap, edm, escape room, aussietronica, vapor twitch, electro house, brostep"
+543,28 Grams,Wolfgang Gartner,Complextro,..\data\audio_files\processed\543.mp3,0.713,0.927,6.0,-6.088,0.486,0.00376,0.00351,0.682,0.687,127.03,4.0,"edm, complextro, house, progressive electro house, electro house"
+544,Never Hide - Original Mix,Wolsh,,..\data\audio_files\processed\544.mp3,0.849,0.75,11.0,-5.013,0.0543,0.00125,0.0792,0.116,0.653,125.996,4.0,
+545,Sunshine (My Girl),Wuki,,..\data\audio_files\processed\545.mp3,0.871,0.765,0.0,-4.602,0.116,0.00742,0.000196,0.0953,0.596,128.087,4.0,
+546,To Be Real,Wuki/Lee Foss/Cheryl Lynn,,..\data\audio_files\processed\546.mp3,0.685,0.95,2.0,-4.547,0.0722,0.0013,0.598,0.037,0.683,129.99,4.0,"urban contemporary, quiet storm, house, disco, funk, minneapolis sound, tech house, deep disco house, classic soul, post-disco, soul"
+547,Done With Love,Zedd,Complextro,..\data\audio_files\processed\547.mp3,0.579,0.759,2.0,-5.584,0.0386,0.06,0.000138,0.117,0.127,127.875,4.0,"edm, complextro, pop dance, german techno, pop"
+548,Straight Into The Fire,Zedd,Complextro,..\data\audio_files\processed\548.mp3,0.583,0.86,8.0,-4.347,0.0842,0.0231,1.33e-06,0.0977,0.279,127.032,4.0,"edm, complextro, pop dance, german techno, pop"
+549,Candyman,Zedd/Aloe Blacc,Complextro,..\data\audio_files\processed\549.mp3,0.572,0.864,2.0,-4.098,0.0477,0.0215,0.0,0.375,0.26,149.945,4.0,"edm, complextro, pop dance, pop soul, german techno, pop, r&b"
+550,Clarity,Zedd/Foxes,Complextro,..\data\audio_files\processed\550.mp3,0.509,0.781,8.0,-3.48,0.072,0.0398,0.0,0.0749,0.176,128.0,4.0,"edm, complextro, pop dance, uk pop, electropop, german techno, metropopolis, pop"
+551,One Three Nine,Zeds Dead/Scrufizzer,Brostep,..\data\audio_files\processed\551.mp3,0.81,0.864,11.0,-5.086,0.0374,0.0339,0.927,0.0593,0.768,124.992,4.0,"dubstep, edm, grime, progressive electro house, electro house, canadian electronic, brostep"
+552,Better Recognize,ZHU/Wax Motif,Edm,..\data\audio_files\processed\552.mp3,0.839,0.786,1.0,-6.217,0.056,0.0292,0.354,0.0827,0.491,126.018,4.0,"electro house, bass house, tech house, edm"
+553,Tunnel Vision - Don Diablo Edit,Zonderling/Don Diablo,Dutch House,..\data\audio_files\processed\553.mp3,0.762,0.913,5.0,-4.101,0.111,0.233,0.47,0.11,0.365,126.001,4.0,"dutch house, edm, future house, pop dance, sky room, progressive house, progressive electro house, electro house"
+554,I DON'T CARE,박혜진 Park Hye Jin,Korean Dream Pop,..\data\audio_files\processed\554.mp3,0.886,0.521,6.0,-10.47,0.11,0.0409,0.245,0.0789,0.244,124.013,4.0,korean dream pop
