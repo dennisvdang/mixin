@@ -2197,3 +2197,10 @@ data/reference/spotify_credentials.json
 .tmp.driveupload/996
 .tmp.driveupload/998
 notebooks/SegmentationExperiment.ipynb
+src/segmenter.py
+src/plca.py
+src/.ipynb_checkpoints/segmenter-checkpoint.py
+src/.ipynb_checkpoints/plca-checkpoint.py
+models/CRNN/spectrogram_best_model.h5
+models/CRNN/best_model.h5
+notebooks/Untitled.ipynb
