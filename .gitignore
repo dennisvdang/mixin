@@ -2204,3 +2204,6 @@ src/.ipynb_checkpoints/plca-checkpoint.py
 models/CRNN/spectrogram_best_model.h5
 models/CRNN/best_model.h5
 notebooks/Untitled.ipynb
+src/madmom/
+notebooks/lib_tempo_src.py
+notebooks/Tempo Estimation Refinement Using Dynamic Programming.ipynb
