@@ -2207,3 +2207,4 @@ notebooks/Untitled.ipynb
 src/madmom/
 notebooks/lib_tempo_src.py
 notebooks/Tempo Estimation Refinement Using Dynamic Programming.ipynb
+*.gz
