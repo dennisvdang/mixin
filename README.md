@@ -1,4 +1,5 @@
 ==============================
+![Static Badge](https://img.shields.io/badge/Project_Status-In_Progress-orange)
 
 # Mixin
 AI-powered DJ that generates mixtapes from a playlist of songs.
