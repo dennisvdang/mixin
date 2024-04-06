@@ -1,6 +1,6 @@
 *.mp3
 *.pkl
-data/reference/spotify_credentials.json
+env/spotify_credentials.json
 notebooks/SegmentationExperiment.ipynb
 models/CRNN/spectrogram_best_model.h5
 models/CRNN/best_model.h5
