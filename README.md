@@ -41,6 +41,7 @@ AI-powered DJ that generates mixtapes from a playlist of songs.
 ```
 
 ## Installation
+
 To set up your environment to run the code in this project, follow these steps:
 
 1. Clone the repository to your local machine.
@@ -48,14 +49,17 @@ To set up your environment to run the code in this project, follow these steps:
 3. Install the required dependencies using `pip install -r requirements.txt`.
 
 ## Usage
+
 - Place your raw audio data in `data/raw` and processed audio data in `data/processed/audio_files/processed`.
 - Run Jupyter notebooks in the `notebooks/` directory for data analysis and exploration.
 - Use scripts in the `src/` directory for data processing, feature extraction, and model training.
 
 ## Contributing
+
 Contributions to this project are welcome. Please refer to the `CONTRIBUTING.md` file for guidelines.
 
 ## License
+
 This project is licensed under the terms of the `LICENSE` file.
 
---------
+------------
