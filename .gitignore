@@ -2,7 +2,6 @@
 *.pkl
 env/spotify_credentials.json
 notebooks/SegmentationExperiment.ipynb
-models/CRNN/spectrogram_best_model.h5
 models/CRNN/best_model.h5
 notebooks/Untitled.ipynb
 notebooks/lib_tempo_src.py
